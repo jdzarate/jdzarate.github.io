@@ -20,14 +20,32 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%; 
+  font-family: 'Open Sans', sans-serif;
+}
 
-h1 { margin-bottom: 1em; }
+h1 { margin-bottom: 1em; font-weight: 400;}
+h2 {font-weight: 400;}
+
 p { margin: 1em 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
+
+blockquote {
+  font-size: 1em;
+  line-height: 1.4em;
+  padding: 0px 10px 0 10px;
+  margin: 5px 0 0 20px;
+  border-left: 5px solid #999;
+  font-style: italic;
+}
+
+img{
+  min-width: 42em;
+  max-width: 42em;
+}
 
 /*****************************************************************************/
 /*
@@ -41,12 +59,28 @@ ul.posts {
 
 ul.posts li {
   line-height: 1.75em;
+  font-family: 'Ubuntu Mono', sans-serif;
 }
 
 ul.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  color: #606060;
+  font-family: 'Ubuntu Mono',Monaco, "Courier New", monospace;
+}
+
+ul.posts li a{
+  color: #554e44;
+}
+
+ul.posts li a:link{
+  text-decoration: none;
+}
+
+ul.posts li a:hover{
+  text-decoration: underline;
+}
+
+ul.posts li a:visited{
+  color: #606060;
 }
 
 /*****************************************************************************/
@@ -71,10 +105,12 @@ ul.posts span {
 .site .header h1.title {
   display: inline-block;
   margin-bottom: 2em;
+
 }
 
 .site .header h1.title a {
-  color: #a00;
+  /*color: #a00;*/
+  color: #50769b;
 }
 
 .site .header h1.title a:hover {
@@ -82,8 +118,10 @@ ul.posts span {
 }
 
 .site .header a.extra {
-  color: #aaa;
+  color: #606060;
   margin-left: 1em;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
 }
 
 .site .header a.extra:hover {
@@ -92,6 +130,8 @@ ul.posts span {
 
 .site .meta {
   color: #aaa;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
 }
 
 .site .footer {
@@ -100,6 +140,7 @@ ul.posts span {
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .site .footer .contact {
@@ -148,6 +189,10 @@ ul.posts span {
   border: none;
 }
 
+.post p{
+  font-family: 'Mate', serif;
+}
+
 /* terminal */
 .post pre.terminal {
   border: 1px solid #000;
@@ -159,11 +204,6 @@ ul.posts span {
   background-color: #333;
 }
 
-blockquote {
-  font-size: 1em;
-  line-height: 1.4em;
-  padding: 0px 10px 0 10px;
-  margin: 5px 0 0 20px;
-  border-left: 5px solid #999;
-  font-style: italic;
+.post a{
+  color: #606060;
 }
