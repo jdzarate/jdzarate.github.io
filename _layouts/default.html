@@ -13,36 +13,49 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Mate:400,400italic' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="/css/main.css">
 
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/skeleton/base.css">
+        <link rel="stylesheet" href="/css/skeleton/skeleton.css">
+        <link rel="stylesheet" href="/css/skeleton/layout.css">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 
     </head>
     <body>
 
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/">Inicio</a>
-            </div>
 
-                {{ content }}
-
-            <div class="footer">
+    <div class="container">
+      <div class="one-third column">
+        <div class="site">
+        <div class="header">
+          <h1 class="title"><a href="/">J.D. Zárate</a></h1>
+          <div class="about">
+            <a href="http://twitter.com/jdzaratem/" target="_blank"><i class="icon-twitter icon-2x"></i></a>
+          <a href="http://github.com/jdzarate/" target="_blank"><i class="icon-github-sign icon-2x"></i></a>
+          <p>
+            Trabajo como analista de sistemas y soy co-fundador de <a href="http://www.crupzi.com" target="_blank" style="color:#d14e0f; font-weight: 300;">Crupzi.com</a>. <br><br>En mi tiempo libre programo, escucho música Indie, veo sitcoms, reflexiono y sigo programando.<br>
+          </p>
+          
+          </div>
+        </div>
+        </div>
+      </div>
+      <div class="two-thirds column">
+        <div class="site">
+          {{ content }}
+          <div class="footer">
               <div class="contact">
                 <p>
-                  Jos&eacute; Daniel Z&aacute;rate<br />
+                  J.D. Zárate<br />
                 </p>
               </div>
               <div class="contact">
-                <p>
-                  <a href="http://twitter.com/jdzaratem/">twitter.com/jdzaratem</a><br />
-                  <a href="http://github.com/jdzarate/">github.com/jdzarate</a><br />
-                </p>
               </div>
             </div>
           </div>
-        </div> <!-- /container -->
+      </div>
+
+    </div><!-- container -->
 
     </body>
 </html>

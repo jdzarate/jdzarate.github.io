@@ -5,7 +5,7 @@ date:   2013-08-02 14:05:00
 ---
 ![El Cruzado de la Noche]({{ site.url }}/assets/el-cruzado-de-la-noche.jpg)
 
-La noche anterior hice algo que no pretendía hacer, no porque quería hacerlo sino porque no lo había planeado. Estoy de vacaciones, terminé de leer un libro, no quería empezar otro, no quería programar así que tuve que ver una película (&iquest;2+2=5 verdad?). Mi catálogo de películas no es muy amplio, creo que a lo mucho tengo 10, todavía no tengo suscripción en Netflix y tampoco estaba en ánimos de piratear otra película más así que vi The Amazing Spiderman por segunda vez.
+La noche anterior hice algo que no pretendía hacer, no porque quería hacerlo sino porque no lo había planeado. Estoy de vacaciones, terminé de leer un libro, no quería empezar otro, no quería programar así que tuve que ver una película (&iquest;2+2=5 verdad?). Mi catálogo de películas no es muy amplio, creo que a lo mucho tengo 10, todavía no tengo suscripción en Netflix y tampoco estaba en ánimos de piratear otra película más, se me antojó ver The Amazing Spiderman por segunda vez.
 
 Creo que tengo la primera película, la de 2002, en VHS original, sí, me refiero a esos cassettes que los rentavideos insistían en que debían ser rebobinados previo a la entrega. Aparte de que la piratería los hizo quebrar, el hecho de rebobinar y esa maldita insistencia no les ayudaba, era algo intolerable para nosotros los que solo queremos presionar "play" y seguir con nuestras vidas. La primera trilogía no me gustó, tengo esperanzas con la nueva y no solo porque me gusta ver a Emma Stone, sino porque así soy yo, un optimista; además, es el único súper héroe con el que me logro identificar.
 
