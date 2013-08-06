@@ -189,7 +189,7 @@ ul.posts li a:visited{
   border: none;
 }
 
-.post p{
+.post p, .post ul, .post ol{
   font-family: 'Mate', serif;
 }
 
