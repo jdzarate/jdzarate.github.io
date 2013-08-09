@@ -25,7 +25,7 @@ Si además le añades el sacrificio de no asistir a una fiesta o a un concierto 
 
 Sí, te irá bien... pero mantengo mi postura, el coeficiente no es el fin ni se vuelve medio; en el mundo real no representa qué tan bueno eres. He conocido personas brillantes tanto con promedios bajos y altos. Tu propósito debe ser aprender y que este aprendizaje se materialice en cosas geniales, en proyectos que nos impresionen. Deja que la calidad de estos hable por tí.
 
-El promedio de notas es un activo depreciable que comienza a perder valor en el momento en que te graduas. Lo que de verdad importa y se mantiene relevante es lo que haces en el día a día, tus proyectos, tu inventiva y cómo la aplicas para solucionar tus problemas y los problemas de los demás. Cuentan también tus equivocaciones, todos sabemos que aprendemos más de estas que de nuestros éxitos.
+El promedio de notas es un activo depreciable que comienza a perder valor en el momento en que te graduas. Lo que de verdad importa y se mantiene relevante es lo que haces en el día a día, tus proyectos, tu inventiva y cómo la aplicas para solucionar tus problemas y los problemas de los demás. Cuentan también las equivocaciones, todos sabemos que aprendemos más de estas que de nuestros éxitos.
 
 [link-Alexis-Ohanian]:http://alexisohanian.com/getting-things-done-%3E-grade-point-average
 [link-LearningPyramid]:http://www.lifewisdominstitute.org/images/triangles/thelearning-pyramid.gif
