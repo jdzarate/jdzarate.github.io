@@ -109,12 +109,12 @@ ul.posts li a:visited{
 }
 
 .site .header h1.title a {
-  /*color: #a00;*/
-  color: #50769b;
+  font-size: 0.8em;
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .site .header h1.title a:hover {
-  color: #000;
 }
 
 .site .header a.extra {
@@ -215,6 +215,7 @@ ul.posts li a:visited{
 
 .posts .post-name{
   font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
 }
 
 .posts .post-name a{
@@ -238,4 +239,8 @@ ul.posts li a:visited{
 
 .header .about p{
   margin-top: 1em;
+}
+
+h1.header-content{
+  font-size: 2em;
 }
