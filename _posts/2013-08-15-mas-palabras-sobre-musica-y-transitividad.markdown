@@ -3,8 +3,6 @@ layout: post
 title:  "Más palabras sobre música y transitividad"
 date:   2013-08-15 14:05:00
 ---
-![Once in a Lifetime]({{ site.url }}/assets/once-in-a-lifetime.jpg)
-
 Pasé escuchando Talking Heads todo el día. Me gustan. El descubrimiento de esa banda es de las mejores cosas que me han pasado en el año por muy triste que parezca. La verdad es que David Byrne es un maldito genio y no tengo idea de cómo es que esa banda no ha trascendido más allá del recuerdo de poca gente, pero vaya qué gente.
 
 Fue muy fácil dar con Talking Heads. En algún lado (no recuerdo dónde) leí que la banda Arcade Fire fue influenciada por la primera. Me encanta Arcade Fire así que por transitividad asumí que Talking Heads podría gustarme también, y no me equivoqué. Me fascinan, no dejo de escucharlos, probablemente porque al igual que The Beatles, no tenían miedo a evolucionar y forzar sus límites en cada álbum.
