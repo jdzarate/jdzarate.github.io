@@ -2,6 +2,7 @@
 layout: post
 title:  "Más palabras sobre música y transitividad"
 date:   2013-08-15 14:05:00
+published: false
 ---
 Pasé escuchando Talking Heads todo el día. Me gustan. El descubrimiento de esa banda es de las mejores cosas que me han pasado en el año por muy triste que parezca. La verdad es que David Byrne es un maldito genio y no tengo idea de cómo es que esa banda no ha trascendido más allá del recuerdo de poca gente, pero vaya qué gente.
 
@@ -19,7 +20,7 @@ Quizá es por mi ecosistema, mi círculo de amigos o quizá es mi visión reduci
 
 Bandas con incidencia contemporánea como Arcade Fire y Radiohead fueron influenciadas por el ["geek who came in from the cold"][link-geek_who_came]. Series de televisión y películas crean proyectos basados en trabajos de John Hughes, un sujeto introvertido cuyos héroes eran Bob Dylan y John Lennon. &iquest;Te suena familiar? sí, Steve Jobs y Stephen Wozniak coleccionaban bootlegs de Dylan y también eran fanáticos de The Beatles y no hace falta mencionar la importancia de Apple Inc. en los productos que consumimos diariamente.
 
-No solo eso. Los "nerds" o "geeks" también están adquiriendo importancia en ramas en las que no salían tener relevancia como los deportes. Es irónico como la persona que era seleccionada solo antes del "chico de silla de ruedas" ahora determina el valor real y el contrato de un jugador de béisbol en base a algoritmos y sabermétricas. Algo impensando hace un par de décadas.
+No solo eso. Los "nerds" o "geeks" también están adquiriendo importancia en ramas en las que no salían tener relevancia como los deportes. Es irónico como la persona que era seleccionada solo antes del "chico de silla de ruedas" ahora determina el valor real y el contrato de un jugador de béisbol en base a algoritmos y sabermétricas, algo impensando hace un par de décadas.
 
 Pero probablemente no era un fenómeno tan difícil de pronosticar por la mismas cualidades de este tipo de personas. Son introvertidos y reservados hasta que encuentras un tema que les apasione. Son estudiosos, no se quedan con las respuesta fáciles. Resuelven los problemas por sí mismos sin importar las complicaciones. Son los que han aprendido que los límites son imaginarios.
 
