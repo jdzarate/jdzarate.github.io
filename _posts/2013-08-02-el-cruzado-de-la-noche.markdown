@@ -2,6 +2,7 @@
 layout: post
 title:  "El Cruzado de la Noche"
 date:   2013-08-02 14:05:00
+excerpt: La noche anterior hice algo que no pretendía hacer, no porque quería hacerlo sino porque no lo había planeado. Estoy de vacaciones, terminé de leer un libro, no quería empezar otro, no quería programar así que tuve que ver una película (&iquest;2+2=5 verdad?).
 ---
 ![El Cruzado de la Noche]({{ site.url }}/assets/el-cruzado-de-la-noche.jpg)
 

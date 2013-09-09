@@ -21,7 +21,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; 
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Sans', sans-serif;
   text-align: left;
 }
 
@@ -59,12 +59,12 @@ ul.posts {
 
 ul.posts li {
   line-height: 1.75em;
-  font-family: 'Ubuntu Mono', sans-serif;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 ul.posts span {
   color: #606060;
-  font-family: 'Ubuntu Mono',Monaco, "Courier New", monospace;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 ul.posts li a{
@@ -110,9 +110,9 @@ ul.posts li a:visited{
 }
 
 .site .header h1.title a {
-  font-size: 0.8em;
+  font-size: 0.7em;
   font-weight: 400;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 .site .header h1.title a:hover {
@@ -121,7 +121,7 @@ ul.posts li a:visited{
 .site .header a.extra {
   color: #606060;
   margin-left: 1em;
-  font-family: 'Open Sans', sans-serif;
+  font-family: '` Sans', sans-serif;
   font-weight: 400;
 }
 
@@ -131,7 +131,7 @@ ul.posts li a:visited{
 
 .site .meta {
   color: #aaa;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Sans', sans-serif;
   font-weight: 300;
 }
 
@@ -141,7 +141,7 @@ ul.posts li a:visited{
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 .site .footer .contact {
@@ -196,7 +196,7 @@ ul.posts li a:visited{
 }
 
 .post p, .post ul, .post ol{
-  font-family: 'Mate', serif;
+  font-family: 'Droid Sans', sans-serif;
 }
 
 /* terminal */
@@ -215,7 +215,7 @@ ul.posts li a:visited{
 }
 
 .posts .post-name{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Sans', sans-serif;
   font-weight: 300;
 }
 
@@ -234,7 +234,7 @@ ul.posts li a:visited{
 
 .header .about{
   margin-right: 2.5em;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Droid Sans', sans-serif;
   font-weight: 300;
 }
 
