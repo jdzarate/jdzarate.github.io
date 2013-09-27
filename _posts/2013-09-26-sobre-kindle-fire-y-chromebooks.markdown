@@ -8,7 +8,7 @@ Esta semana recibí este correo:
 
 >Kindle paper white: $119 Kindle fire HD: $139 ¿Una tablet solo $20 más caro que un e-reader? ¿será mejor comprar la tablet al paperwhite?
 
-Mi primera respuesta fue la más basura posible: “maje, todo depende”, pues, al menos yo no consideraría sustituir mi Kindle Touch por un Kindle Fire: la duración de la batería es ridícula, lo cargo entre 6 y 7 veces al año y no me arruina la vista porque ¡es tinta!. Además, si de verdad estuviera considerando comprar una tablet no eligiría el Kindle Fire que no es tablet, me iría directo a comprar la nueva Nexus 7 porque tendría que ayudarme a superar mi glosofobia.
+Mi primera respuesta fue la más basura posible: “maje, todo depende”, pues, al menos yo no consideraría sustituir mi Kindle Touch por un Kindle Fire: la duración de la batería es ridícula, lo cargo entre 6 y 7 veces al año y no me arruina la vista porque ¡es tinta!. Además, si de verdad estuviera considerando comprar una tablet no eligiría el Kindle Fire que no es tablet, me iría directo a comprar la nueva Nexus 7 porque se supone que tendría que ayudarme a superar mi glosofobia.
 
 Ambos tenemos kindles (e-readers) y smartphones y por eso contextualicé el consejo ¿cuál es el punto? ¿para qué querés el paperwhite si todavía te funciona el Kindle Keyboard? no lo vas comprar porque no necesitás la luz si no lees en la oscuridad y no justificaría comprarlo solo porque es más blanco que un Patronus. Y si el Kindle Fire no es una tablet real no le veo el punto. En resumen: a menos que comprés una tableta como la gente, seguí con tu vida y no le digás a nadie sobre lo que acabamos de hablar.
 
