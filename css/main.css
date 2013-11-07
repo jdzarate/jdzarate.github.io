@@ -245,3 +245,12 @@ ul.posts li a:visited{
 h1.header-content{
   font-size: 2em;
 }
+
+.highlight{font-family: 'Inconsolata', monospace, sans-serif;}
+.python .sd{ color: #999988; }
+.python .nf{ color: #696969;}
+.python .nb{ color: #808080;}
+.python .mi{ color: #000;}
+
+.post pre, .post code{ background: #f5f5f5 !important; }
+.post pre{margin-bottom: 20px;}

@@ -28,7 +28,7 @@ Al discutir sobre el Kindle Fire como un device para complementar y no para sust
 
 ####Chromebooks
 
-Mis compañeros de trabajo me critican por mi idea de comprar una Chromebook porque solo es un navegador, necesitas estar conectado todo el tiempo: para eso mejor compra una tablet (sí, volvemos a las tablets). Pero es que no puedo evitarlo, me fascina el concepto: una computadora de doscientos dólares, libre de Windows, sumamente portátil, la batería dura entre 8 y 10 horas, carga en 7 segundos y si viajo con ella y la extravío, no pierdo "nada", simplemente consigo otra computadora y estoy de regreso con toda mi información.
+A veces se critica la idea de comprar una Chromebook porque solo es un navegador, necesitas estar conectado todo el tiempo: para eso mejor compra una tablet (sí, volvemos a las tablets). Pero es que no puedo evitarlo, me fascina el concepto: una computadora de doscientos dólares, libre de Windows, sumamente portátil, la batería dura entre 8 y 10 horas, carga en 7 segundos y si viajo con ella y la extravío, no pierdo "nada", simplemente consigo otra computadora y estoy de regreso con toda mi información.
 
 La crítica que tengo que estar conectado todo el tiempo me parece absurda: primero porque sí existen [apps que funcionan offline][link-apps-offline] y segundo porque todos estamos conectados todo el tiempo; si trabajo en la compu desde mi casa y no tengo Internet la apago y hago otra cosa. No puedo vivir sin Internet. Y además, no es solo un navegador, incluso es posible instalar una distribución de Linux y alternar entre Chrome OS y Ubuntu en un solo segundo.
 
