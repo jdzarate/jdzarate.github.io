@@ -8,8 +8,10 @@ title: J.D. Zárate
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-      	 <a href="{{ post.url }}" class="post-name" style="font-size:1.3em;">{{ post.title }}</a>, <span>{{ post.date | date_to_string }}</span>
-      	<p>{{ post.excerpt }}<br><a href="{{ post.url }}" class="post-name" style="font-size:90%;">Continuar leyendo...</a></p>
+      	 <a href="{{ post.url }}" class="post-name" style="font-size:1.6em;">{{ post.title }}</a><br> 
+      	 <span>{{ post.date | date_to_string }}</span><br>
+      	<p>{{ post.excerpt }}<br>
+      	<a href="{{ post.url }}" class="post-continue-reading" style="font-size:90%; text-decoration: none;">Continuar leyendo...</a></p>
 
       </li>
     {% endfor %}

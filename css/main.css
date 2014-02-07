@@ -59,12 +59,15 @@ ul.posts {
 
 ul.posts li {
   line-height: 1.75em;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Vollkorn', sans-serif;
+  margin: 2.5em 0;
 }
 
 ul.posts span {
   color: #606060;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Vollkorn', sans-serif;
+  margin: 0;
+  font-size: 0.9em;
 }
 
 ul.posts li a{
@@ -110,9 +113,10 @@ ul.posts li a:visited{
 }
 
 .site .header h1.title a {
-  font-size: 0.7em;
+  font-size: 0.9em;
   font-weight: 400;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Vollkorn', sans-serif;
+  color: #181818;
 }
 
 .site .header h1.title a:hover {
@@ -131,7 +135,7 @@ ul.posts li a:visited{
 
 .site .meta {
   color: #aaa;
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Vollkorn', sans-serif;
   font-weight: 300;
 }
 
@@ -142,6 +146,7 @@ ul.posts li a:visited{
   margin-top: 2em;
   overflow: hidden;
   font-family: 'Droid Sans', sans-serif;
+  padding: 0.5em 0.5em;
 }
 
 .site .footer .contact {
@@ -149,8 +154,16 @@ ul.posts li a:visited{
   margin-right: 3em;
 }
 
+.site .footer .contact p{
+  color: #444;
+  font-size: 1.5em;
+  font-family: 'Vollkorn', sans-serif;
+  margin: 0em;
+}
+
 .site .footer .contact a {
-  color: #8085C1;
+  color: #444;
+  text-decoration: none;
 }
 
 .site .footer .rss {
@@ -196,7 +209,10 @@ ul.posts li a:visited{
 }
 
 .post p, .post ul, .post ol{
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Vollkorn', sans-serif;
+  line-height: 1.7;
+  font-size: 1.2em;
+  font-weight: 300;
 }
 
 /* terminal */
@@ -215,7 +231,7 @@ ul.posts li a:visited{
 }
 
 .posts .post-name{
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Vollkorn', sans-serif;
   font-weight: 300;
 }
 
@@ -254,3 +270,39 @@ h1.header-content{
 
 .post pre, .post code{ background: #f5f5f5 !important; }
 .post pre{margin-bottom: 20px;}
+
+.post-continue-reading{
+
+}
+
+
+.post-continue-reading {
+font-size: 100%;
+padding: .2em .7em;
+color: #444;
+color: rgba(0,0,0,.8);
+border: 1px solid #999;
+border: 0 rgba(0,0,0,0);
+background-color: #E6E6E6;
+text-decoration: none;
+border-radius: 2px;
+-webkit-transition: .1s linear -webkit-box-shadow;
+-moz-transition: .1s linear -moz-box-shadow;
+-ms-transition: .1s linear box-shadow;
+-o-transition: .1s linear box-shadow;
+transition: .1s linear box-shadow;
+}
+.post-continue-reading {
+display: inline-block;
+zoom: 1;
+line-height: normal;
+white-space: nowrap;
+vertical-align: baseline;
+text-align: center;
+cursor: pointer;
+-webkit-user-drag: none;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
