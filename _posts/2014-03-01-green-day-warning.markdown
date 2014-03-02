@@ -11,7 +11,7 @@ Warning, el álbum, es de esos discos que te gustan desde la primera vez que los
 
 Aquí es donde me ridiculizo usando términos que no entiendo: sentí que la base del disco era Punk coqueteando con Rock Alternativo y otros géneros. De verdad que no me esperaba escuchar “Folk”, me gustó la sorpresa. “Misery” es de mis canciones favoritas del disco.
 
-No encontré puntos débiles y no fue porque no los hay buscado. Incluso quise juzgar la canción “Jackass” por el título, me decía, “esta tiene que ser”. Sin suerte. Las canciones tenían detalles que les daban autonomía. Son esos detalles los que hicieron que el disco me gustara tanto, ya sea el saxofón, la armónica, algún otro “titubeo” o una canción que parecería fuera de lugar.
+No encontré puntos débiles y no fue porque no los haya buscado. Incluso quise juzgar la canción “Jackass” por el título, me decía, “esta tiene que ser”. Sin suerte. Las canciones tenían detalles que les daban autonomía. Son esos detalles los que hicieron que el disco me gustara tanto, ya sea el saxofón, la armónica, algún otro “titubeo” o una canción que parecería fuera de lugar.
 
 De las canciones que no había escuchado nunca y me parecieron geniales están “Blood, Sex and Booze”, “Misery” y “Macy’s Day Parade”.
 
