@@ -13,6 +13,6 @@ Aquí es donde me ridiculizo usando términos que no entiendo: sentí que la bas
 
 No encontré puntos débiles y no fue porque no los hay buscado. Incluso quise juzgar la canción “Jackass” por el título, me decía, “esta tiene que ser”. Sin suerte. Las canciones tenían detalles que les daban autonomía. Son esos detalles los que hicieron que el disco me gustara tanto, ya sea el saxofón, la armónica, algún otro “titubeo” o una canción que parecería fuera de lugar.
 
-De las canciones que no había escuchado nunca y me parecieron geniales están “Blood, Sex and Booze”, “Misery”, y “Macy’s Day Parade”.
+De las canciones que no había escuchado nunca y me parecieron geniales están “Blood, Sex and Booze”, “Misery” y “Macy’s Day Parade”.
 
 Muy buen álbum. Estoy seguro que estará en mi rotación por mucho tiempo.
