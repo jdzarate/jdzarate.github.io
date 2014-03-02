@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "No sigas tu pasión"
+date:   2013-11-18 12:00:00
+excerpt: Seguir tu pasión es un mal consejo. Suena contradictorio porque parece que últimamente toda la propaganda que recibo de start-ups, libros y websites apuntan a que debo seguir mi pasión y que esa es la clave para mi felicidad.
+---
+Las últimas semanas mi tiempo libre se ha dividido en dos cosas: ver capítulos de The Office y leer ["So good they can't ignore you" de Carl Newport][link-to-sogood]. Acabo de terminar el libro y se me ocurrió escribir sobre este porque es uno de los mejores libros que he leído este año.
+
+Como me imagino que igual no lo vas a leer, intentaré resumirlo. Carl define 4 reglas para amar lo que haces:
+
+1. Seguir tu pasión es un mal consejo.
+2. Debes desarrollar habilidades valiosas y poco comunes.
+3. Las habilidades facilitan la obtención de control y autonomía.
+4. Alcanzas satisfacción cuando trabajas por una misión, por un propósito.
+
+Seguir tu pasión es un mal consejo. Suena contradictorio porque parece que últimamente toda la propaganda que recibo de start-ups, libros y websites apuntan a que debo seguir mi pasión y que esa es la clave para mi felicidad: renuncia a tu trabajo, deja de trabajar "para el hombre" y dedica tus esfuerzos a lo que realmente amas.
+
+Por eso me pareció refrescante leer lo contrario. Y tiene sentido, es un proceso. Los casos de gente que siguieron su pasión para alcanzar el éxito son la excepción, no la regla. Funciona para algunos ¿pero qué tal todas esas personas que vemos en la calle? ¿las personas que vemos todos los días en nuestros trabajos? ¿han seguido su pasión? ¿tienen que renunciar a sus trabajos y conseguir nuevos para disfrutar lo que hacen?
+
+No hay que confundir con conformismo y aceptación. Si lees de nuevo la reglas, tratan todo lo contrario. Para desarrollar habilidades valiosas se requiere de esfuerzo, de un entrenamiento constante. Una vez tengas esas habilidades tienes más control: eres bueno y la gente lo sabe. ¿Qué tal si con ese "poder" adquirido dedicas tus esfuerzos a una misión, a algo que te importe? creo que tendrías más probabilidades de ser exitoso.
+
+Steve Jobs no era un apasionado por la tecnología, Stephen Wozniak (co-fundador de Apple) sí lo era. Si Jobs hubiera seguido su pasión inicial probablemente se hubiera convertido en profesor de Zen o vendedor de manzanas (literalmente). Todo empezó con una oportunidad de hacer dinero vendiendo circuitos integrados, descubrió que era bueno en lo que hacía y desarrolló sus habilidades, eso le permitió adquirir control. La pasión llegó con el tiempo.
+
+El libro me marcó porque esto viviendo algo parecido. No me he sentido motivado en el trabajo, procrastino y pasó un buen rato soñando despierto, creyendo que si estuviera en otro trabajo sería diferente, que si trabajara en en alguna idea y despuntara todo sería mejor. ¿ves mi error? Estoy tomando la mentalidad de la pasión, en la que sueño con lo que el mundo me puede ofrecer cuando en realidad debería tomar la mentalidad del artesano, en la que trabajaría en lo que yo puedo ofrecer al mundo.
+
+Es difícil porque no sé exactamente qué es lo que quiero. 
+
+El martes pasado recibí una llamada de un usuario de Contabilidad, tenía un problema de información, el sistema no la presentaba fácilmente y pasaba horas buscándola, ese tipo de llamadas son recurrentes y por eso, sin preguntar, decidí hacer algo al respecto.
+
+Dejé lo que estaba haciendo y me dediqué todo el día a programar un reporte y modificar pantallas para que resolvieran sus problemas presionando un botón. Cuando lo terminé me sentí bien, fue un buen día en el trabajo porque era bueno en lo que estaba haciendo, tuve control y libertad al momento de definir qué iba a hacer y estuve trabajando con una misión a corto plazo: resolver el problema de información de los contadores.
+
+El siguiente día volví a las que han sido mis actividades cotidianas las últimas semanas: ver código ajeno para rediseñar un sistema viejo; no fue para nada como el día anterior en el que trabajé en el reporte. Quizá porque el día anterior sentí que estaba resolviendo un problema y con el otro sistema parecería que me dedico a intentar no crear más.
+
+Es curioso porque hace unos meses yo estaba aburrido de trabajar haciendo reportes como el que hice para Contabilidad y ansiaba hacer algo nuevo, algo diferente. Por eso creo que mi falta de motivación tiene otra razón. Cal menciona que cuando uno trabaja llega un momento en que se alcanza un nivel aceptable y esto origina estancamiento, depende de cada quien seguir forzando sus límites.
+
+Aquí es donde estoy fallando. En mis primeros dos años trabajando disfrutaba lo que hacía, estaba aprendiendo y eventulamente llegué a ese nivel "aceptable". Fue allí cuando empecé a culpar al trabajo de no ofrecerme la posibilidad de mejorar cuando todo este tiempo era mi responsabilidad.
+
+Mi felicidad en lo que hago no depende de si trabajo en un sistema de contabilidad, de expedientes de estudiantes o en un start-up que organice descuentos de comercios. A corto plazo está en seguir aprendiendo, en desarrollar habilidades que valgan la pena, ya en el camino descubriré una misión a largo plazo. No hay apuros.
+
+De verdad, lee el libro cuando puedas.
+
+Eso es todo. 
+
+Puedes encontrarme en Twitter en [@jdzaratem][link-to-twitter].
+
+[link-to-sogood]:http://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455528048/
+[link-to-twitter]: https://www.twitter.com/jdzaratem

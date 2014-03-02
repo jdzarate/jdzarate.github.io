@@ -3,6 +3,8 @@ layout: post
 title:  "Reflekciones sobre críticas de música de una Persona Normal"
 date:   2013-11-06 12:00:00
 excerpt: Reflekciones sobre reflekciones sobre reflekciones sobre reflekciones de críticas de música.
+categories:
+- blog
 ---
 Tengo una maña. Luego de escuchar varias veces un nuevo álbum de música (nuevo para mí) busco reviews. No los busco porque quiero validar que el álbum es bueno o malo, a este punto ya he formado mi opinión, los busco porque me cuesta expresar con palabras lo que sentí luego de escucharlo. Necesito ayuda (y un tesauro) y espero que tal vez alguno de los expertos pueda describir mis sensaciones con sus palabras.
 

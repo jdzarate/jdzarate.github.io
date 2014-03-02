@@ -3,6 +3,8 @@ layout: post
 title:  "Si lo construyes, ellos vendrán"
 date:   2013-09-08 14:05:00
 excerpt: Eso funciona de esta forma, tengo una idea, creo el website/app y los demás vendrán corriendo a darme su dinero.
+categories:
+- blog
 ---
 ![Field of Dreams]({{ site.url }}/assets/field-of-dreams.jpg)
 

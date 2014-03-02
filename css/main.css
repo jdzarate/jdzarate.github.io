@@ -306,3 +306,16 @@ cursor: pointer;
 -ms-user-select: none;
 user-select: none;
 }
+
+/* Nav Bar */
+ul.navbar{
+  margin-top: 1.2em;
+  font-family: 'Vollkorn', serif;
+  padding-left: 5px;
+}
+
+ul.navbar li{
+  display: inline;
+  list-style-type: none;
+  padding-right: 20px;
+}

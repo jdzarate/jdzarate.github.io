@@ -3,6 +3,8 @@ layout: post
 title:  "Sobre Kindle Fire y Chromebooks"
 date:   2013-09-26 14:05:00
 excerpt: Discusión sobre cómo el Kindle Fire y los Chromebooks pueden complementar los devices que ya tienes.
+categories:
+- blog
 ---
 Hace dos días recibí un correo de Oscar Arévalo (mi amigo y también co-fundador de [Crupzi.com][link-crupzi]) preguntando sobre los nuevos Kindles que lanzó Amazon y con solo una pregunta desató una cadena de correos que solo unos nerds podríamos encontrarla divertida. Para ponerte en contexto esto fue lo que escribió:
 
