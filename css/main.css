@@ -319,3 +319,7 @@ ul.navbar li{
   list-style-type: none;
   padding-right: 20px;
 }
+
+iframe.r3{
+  min-height: 220px !important;
+}

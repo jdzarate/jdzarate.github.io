@@ -19,7 +19,8 @@
         <link rel="stylesheet" href="/css/skeleton/skeleton.css">
         <link rel="stylesheet" href="/css/skeleton/layout.css">
         <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-
+        <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://apis.google.com/js/plusone.js"></script>
     </head>
     <body>
     <div class="container">
@@ -77,7 +78,22 @@
               </div>
             </div>
           </div>
+          {% if page.path contains '_posts' %}
+          <aside>
+          <div id="google_comments" style="height:300px;"></div>
+          </aside>
+          {% endif %}
       </div>
     </div><!-- container -->
+    <script type="text/javascript">
+      $( document ).ready(function() {
+        gapi.comments.render('google_comments', {
+          href: window.location,
+          width: $("aside").width() - 20,
+          first_party_property: 'BLOGGER',
+          view_type: 'FILTERED_POSTMOD'
+        });
+      });
+    </script>
     </body>
 </html>
