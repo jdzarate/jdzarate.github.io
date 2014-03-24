@@ -108,7 +108,7 @@ Si te interesa una alternativa similar a Jekyll pero usando Python puedes ver [P
 
 ### Resumen
 
-Si lo que quieres es bloguear de forma casual y no te quieres complicar pagando ni instalando nada revisa [Tumblr][lnkTumblr] o [Blogger][lnk-blogger] (en ese orden). Una gran ventaja de empezar con uno de esos dos es que puedes migrar todos tus posts a otra opción más profesional y configurable como [Wordpress][lnkWordpress], pero asume que tendrás costos por alojar tu blog en un servidor (no menos de $3 o $4). [Ghost][lnkGhost] es una alternativa simple, elegante e ideal para bloguear, es de código libre pero ponerla a funcionar te costaría al menos $5 al mes. Ahora, si te quieres divertir construyendo tu blog además de escribir posts, sin tener que pagar por uso o alojamiento revisa [Jekyll][lnkJekyll] o [Pelican][lnkPelican].
+Si lo que quieres es bloguear de forma casual y no te quieres complicar pagando ni instalando nada revisa [Tumblr][lnkTumblr] o [Blogger][lnk-blogger] (en ese orden). Una gran ventaja de empezar con uno de esos dos es que puedes migrar todos tus posts a otra opción más profesional y configurable como [Wordpress][lnkWordpress], pero asume que tendrás costos por alojar tu blog en un servidor (no menos de $3 o $4). [Ghost][lnkGhost] es una alternativa simple, elegante e ideal para bloguear, es de código libre pero ponerla a funcionar te costaría al menos $5 al mes. Ahora, si te quieres divertir construyendo tu blog además de escribir posts y sin tener que pagar por uso o alojamiento revisa [Jekyll][lnkJekyll] o [Pelican][lnkPelican].
 
 [lnk-blogger]:http://blogger.com
 [lnk-blogGoogle]:http://googleblog.blogspot.com/
