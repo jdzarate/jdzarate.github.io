@@ -2,7 +2,7 @@
 layout: post
 title: "Herramientas para bloguear"
 date:   2014-03-23 12:00:00
-excerpt: En el que escribo herramientas que podrían ser útiles para alguien que quiere comenzar a bloguear.
+excerpt: En el que escribo sobre herramientas que podrían ser útiles para alguien que quiere comenzar a bloguear.
 categories:
 - blog
 ---
