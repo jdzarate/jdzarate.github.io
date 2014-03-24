@@ -20,7 +20,7 @@ La desventaja que detecto es que, para bien o para mal, Blogger (Google) control
 
 Tampoco es tan difícil como podrías creer. En la mayor parte de ocasiones es solo de "copiar y pegar" un código que encuentras en algún otro blog.
 
-Creo que Blogger es bastante adecuado para usuarios que usan su blog por motivos personales, que solo quieren escribir, están conformes los temas visuales que ofrece la plataforma y no quieren saber nada de ser servidores o alojamiento Web. Tiene sus inconvenientes, sí, pero es gratis.
+Creo que Blogger es bastante adecuado para usuarios que usan su blog por motivos personales, que solo quieren escribir, están conformes con los temas visuales que ofrece la plataforma y no quieren saber nada de ser servidores o alojamiento Web. Tiene sus inconvenientes, sí, pero es gratis.
 
 Ejemplos de blogs que usan Blogger:
 
@@ -63,7 +63,7 @@ Por Wordpress.org me refiero al código fuente de Wordpress. No hay una platafor
 
 Cuando está listo, cuentas con todas las opciones de Wordpress: manejo de diferentes autores, instalación de "plugins", instalación de temas visuales, modificación de temas visuales, creación de páginas adicionales y más; Wordpress más que una herramienta para crear blogs, es una herramienta para crear sitios Web.
 
-Yo recomendaría Wordpress solo para quienes usan su blog de forma profesional o si se trata de un blog empresarial. De lo contrario, si es para bloguear de forma casual, no creo que le saques provecho a todas las funciones, son más las complicaciones innecesarias que conlleva buscar y pagar por alojamiento Web. Además, aún cuando se trata de instaladores de un click, siempre hay algo por configurar que no es tan intuitivo para cualquiera.
+Yo recomendaría Wordpress solo para quienes usan su blog de forma profesional o si se trata de un blog empresarial. De lo contrario, si es para bloguear de forma casual, no creo que le saques provecho a todas las funciones, son más las complicaciones innecesarias que conlleva buscar y pagar por alojamiento Web.
 
 Ejemplos de blogs que usan Wordpress.
 
@@ -78,11 +78,11 @@ Para muchos, Wordpress, con todas sus características, se volvía demasiado com
 
 Cuando escribes los posts no es como en Blogger o Tumblr en el que escribes y das formato como si estuvieras en "Word". En Ghost, cuando escribes un post, lo escribes en [Markdown][lnkMarkdown].
 
-Markdown define un formato de texto plano y lo traduce a código HTML para que pueda ser visible en Internet. Pero no es de alarmarse, puedes ver qué tan fácil es en la misma [página de Ghost][lnkGhostFeatures]. Además, siempre es divertido aprender algo nuevo. Me atrevería a decir que una vez tienes conocimientos básicos de Markdown es mucho más sencillo y práctico que escribir y dar formato "a lo Word".
+Markdown define un formato de texto plano y lo traduce a código HTML para que pueda ser visible en Internet. Pero no es de alarmarse, puedes ver qué tan fácil es en la misma [página de Ghost][lnkGhostFeatures]. Me atrevería a decir que una vez tienes conocimientos básicos de Markdown es mucho más sencillo y práctico que escribir y dar formato "a lo Word". Además, siempre es divertido aprender algo nuevo.
 
 Aquí quisiera decirte, Ghost es la herramienta ideal para bloguear pero simplemente no puedo porque tiene ciertas complicaciones que no tienen nada que ver con el uso y resultado del uso de la plataforma: 1) Ghost es una herramienta de código libre y 2) Ghost está programada con Node.js.
 
-La primera suena como ventaja pero no lo es en cuanto que eso supone que lo tienes que configurar personalmente en un servidor, es decir, tienes que buscar alojamiento Web. La segunda es un problema porque no todos los servicios de alojamiento Web están configurados para trabajar con Node.js: no podrás instalar Ghost. Si no quieres complicarte, tienes que usar el mismo servicio de alojamiento que te ofrece Ghost (o un tercero), pero el servicio cuesta al menos $5 cada mes después de 1 mes de prueba gratis.
+La primera suena como ventaja pero no lo es en cuanto que eso supone que lo tienes que configurar personalmente en un servidor, es decir, tienes que buscar alojamiento Web. La segunda es un problema porque no todos los servicios de alojamiento Web están configurados para trabajar con Node.js: no te permiten instalar Ghost. Si no quieres complicarte, puedes usar el mismo servicio de alojamiento que te ofrece Ghost (o buscar un tercero), pero el servicio cuesta al menos $5 cada mes después de 1 mes de prueba gratis.
 
 Ejemplos de Blogs que usan Ghost.
 
@@ -108,7 +108,7 @@ Si te interesa una alternativa similar a Jekyll pero usando Python puedes ver [P
 
 ### Resumen
 
-Si lo que quieres es bloguear de forma casual y no te quieres complicar pagando ni instalando nada revisa [Tumblr][lnkTumblr] o [Blogger][lnk-blogger] (en ese orden). Una gran ventaja de empezar con uno de esos dos es que puedes migrar todos tus posts a otra opción más profesional y configurable como [Wordpress][lnkWordpress], pero asume que tendrás costos por alojar tu blog en un servidor (no menos de $3 o $4). [Ghost][lnkGhost] es una alternativa simple, elegante e ideal para bloguear, es de código libre pero ponerla a funcionar te costaría al menos $5 al mes. Ahora, si te quieres divertir construyendo tu blog además de escribir posts revisa [Jekyll][lnkJekyll] o [Pelican][lnkPelican].
+Si lo que quieres es bloguear de forma casual y no te quieres complicar pagando ni instalando nada revisa [Tumblr][lnkTumblr] o [Blogger][lnk-blogger] (en ese orden). Una gran ventaja de empezar con uno de esos dos es que puedes migrar todos tus posts a otra opción más profesional y configurable como [Wordpress][lnkWordpress], pero asume que tendrás costos por alojar tu blog en un servidor (no menos de $3 o $4). [Ghost][lnkGhost] es una alternativa simple, elegante e ideal para bloguear, es de código libre pero ponerla a funcionar te costaría al menos $5 al mes. Ahora, si te quieres divertir construyendo tu blog además de escribir posts, sin tener que pagar por uso o alojamiento revisa [Jekyll][lnkJekyll] o [Pelican][lnkPelican].
 
 [lnk-blogger]:http://blogger.com
 [lnk-blogGoogle]:http://googleblog.blogspot.com/
