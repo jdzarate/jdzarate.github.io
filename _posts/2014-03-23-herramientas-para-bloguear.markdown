@@ -25,7 +25,7 @@ Creo que Blogger es bastante adecuado para usuarios que usan su blog por motivos
 Ejemplos de blogs que usan Blogger:
 
 * El blog de Google ([http://googleblog.blogspot.com/][lnk-blogGoogle])
-* El blog de SalixOS: ([http://salixos.blogspot.com/][lnk-blogSalix])
+* El blog de SalixOS ([http://salixos.blogspot.com/][lnk-blogSalix])
 
 
 ### Tumblr ([http://tumblr.com][lnkTumblr])
@@ -67,9 +67,9 @@ Yo recomendaría Wordpress solo para quienes usan su blog de forma profesional o
 
 Ejemplos de blogs que usan Wordpress.
 
-* Wil Wheaton dot Net: ([http://wilwheaton.net/][lnkWil])
-* El Blog de Barney Stinson: ([http://www.barneystinsonblog.com/][lnkBarney])
-* El Blog de Buffer App: ([http://blog.bufferapp.com][lnkBuffer])
+* El Blog de Oscar O. Arévalo ([http://www.oscaroarevalo.com/][lnkOOA])
+* El Blog de Barney Stinson ([http://www.barneystinsonblog.com/][lnkBarney])
+* El Blog de Buffer App ([http://blog.bufferapp.com][lnkBuffer])
 
 
 ### Ghost ([http://ghost.org][lnkGhost])
@@ -117,7 +117,7 @@ Si lo que quieres es bloguear de forma casual y no te quieres complicar pagando 
 [lnkBigNo]: http://bignoggins.me/
 [lnkTumblr]: http://tumblr.com
 [lnkWordpress]:http://wordpress.org
-[lnkWil]:http://wilwheaton.net/
+[lnkOOA]:http://www.oscaroarevalo.com/
 [lnkBarney]:http://www.barneystinsonblog.com/
 [lnkBuffer]:http://blog.bufferapp.com
 [lnkGhost]:http://ghost.org
