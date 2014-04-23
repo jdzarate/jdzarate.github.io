@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hatching Twitter"
-date:   2014-04-22 12:00:00
+date:   2014-04-23 12:00:00
 categories:
 - book-writeup
 ---
