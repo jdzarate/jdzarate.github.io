@@ -13,7 +13,7 @@ No sé si es un disco de rock, pop, o algún sub-género con un nombre cuestiona
 
 "Modern Vampires of the City" es una gran composición. Está repleto de canciones con gran inventiva magníficamente integradas individualmente y en su conjunto. A eso hay que sumarle que las letras son muy astutas y existencialistas. Las letras, la música, las armonías, todo encaja de una forma increíblemente orgánica.
 
-Una vez alguien dijo que la perfección no se alcanza cuando ya no hay nada que agregar sino cuando no queda nada que sustraer. Eso es "Modern Vampires of the City", un disco que parecería sencillo pero es en realidad complejo y orgánico. No le quitaría un solo ritmo. Es un clásico de nuestros tiempos.
+Antoine de Saint-Exupery dijo que la perfección no se alcanza cuando ya no hay nada que agregar sino cuando no queda nada que sustraer. Eso es "Modern Vampires of the City", un disco que parecería sencillo pero es en realidad complejo y orgánico. No le quitaría un solo ritmo. Es un clásico de nuestros tiempos.
 
 Canciones Favoritas: Todo del álbum es genial pero si tengo que elegir serían ["Obvious Bicycle"][lnk-ObviousBicycle], ["Unbelievers"][lnk-Unbelievers], ["Step"][lnk-Step], ["Diane Young"][lnk-DianeYoung], ["Hannah Hunt"][lnk-HannahHunt] y ["Ya Hey"][lnk-YaHey]. ¡Ja! la mitad del disco. Es difícil elegir.
 
