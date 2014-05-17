@@ -7,13 +7,13 @@ categories:
 ---
 La mayor parte de ocasiones escucho música mientras estoy frente a mi computadora. Ultimamente he estado utilizando un software para reproducir música llamado "DeaDBeeF" porque su "layout" es demasiado sencillo.
 
-Cada vez que abro DeaDBeeF el programa me muestra un "playlist" por defecto. Este día el contenido de esta lista es el set de canciones de "Modern Vampires of the City", el tercer álbum de Vampire Weekend. Para mí es casi imposible resistir darle "play" a la primera canción "Obvious Bicycle" y es aún más difícil no escuchar el resto del disco repetidamente.
+Cada vez que abro DeaDBeeF el programa me muestra un "playlist" por defecto. Desde hace semanas el contenido de esta lista es el set de canciones de "Modern Vampires of the City", el tercer álbum de Vampire Weekend. Para mí es casi imposible resistir darle "play" a la primera canción "Obvious Bicycle" y es aún más difícil no escuchar el resto del disco una y otra vez...
 
-No sé si es un disco de rock, pop, o algún sub-género con un nombre cuestionable sacado de la Enciclopedia de Hipsters. Creo que simplemente es arte. Posiblemente sea recordado como un clásico de nuestros tiempos. Es curioso porque a veces los expertos dicen eso sobre álbums como "Kid A" de Radiohead, discos "peculiares" con sonidos un tanto extraños. "Modern Vampires" es lo contrario, es muy accesible, muy fácil de escuchar desde la primera vez pero mejora un poco más en cada repetición.
+No sé si es un disco de rock, pop, o algún sub-género con un nombre cuestionable sacado de la Enciclopedia de Hipsters. Creo que simplemente es arte, un álbum que cambia la concepción del juego. Es curioso porque a veces los expertos dicen eso sobre discos como "Kid A" de Radiohead, peculiares y con sonidos un tanto extraños pero que realmente no sabes como abordarlos por su complejidad. "Modern Vampires" es lo contrario, es muy accesible, muy fácil de escuchar desde la primera vez pero mejora un poco más en cada repetición.
 
-Vampire Weekend no es una banda de sencillos, de guitarras estruendosas o grandes "solos". Ellos trabajan composiciones: canciones con inventiva magníficamente integradas individualmente y en su conjunto. Algunos podrían llamarla música experimental, para mí es increíblemente orgánica.
+"Modern Vampires of the City" es una gran composición. Está repleto de canciones con gran inventiva magníficamente integradas individualmente y en su conjunto. A eso hay que sumarle que las letras son muy astutas y existencialistas. Las letras, la música, las armonías, todo encaja de una forma increíblemente orgánica.
 
-Una vez alguien dijo que la perfección no se alcanza cuando ya no hay nada que agregar sino cuando no queda nada que sustraer. Eso es "Modern Vampires of the City", un disco que parecería sencillo pero es en realidad complejo y orgánico... no le quitaría un solo "beat".
+Antoine de Saint-Exupery dijo que la perfección no se alcanza cuando ya no hay nada que agregar sino cuando no queda nada que sustraer. Eso es "Modern Vampires of the City", un disco que parecería sencillo pero es en realidad complejo y orgánico. No le quitaría un solo ritmo. Es un clásico de nuestros tiempos.
 
 Canciones Favoritas: Todo del álbum es genial pero si tengo que elegir serían ["Obvious Bicycle"][lnk-ObviousBicycle], ["Unbelievers"][lnk-Unbelievers], ["Step"][lnk-Step], ["Diane Young"][lnk-DianeYoung], ["Hannah Hunt"][lnk-HannahHunt] y ["Ya Hey"][lnk-YaHey]. ¡Ja! la mitad del disco. Es difícil elegir.
 
