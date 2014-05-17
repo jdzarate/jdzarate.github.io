@@ -10,13 +10,13 @@ categories:
 > "Si crees que los libros digitales no son libros de verdad entonces tuviste que tener a hombres ciegos cantándote la "Odisea" porque si no, no podrías entenderla realmente." - Dan Wilbur
 
 
-En diciembre de 2011 compré un Kindle, pero mis razones comenzaron a presentarse un año antes.
+En diciembre de 2011 compré un Kindle pero mis razones comenzaron a presentarse un año antes.
 
-Soy un fanático de los libros de fantasía. El 27 de diciembre de 2010 compré el que creo, en su momento, era el último ejemplar en El Salvador de "El Nombre del Viento" de Patrick Rothfuss. Me costó más o menos $35. Fueron 872 páginas de pura genialidad. 
+Soy un fanático de los libros de fantasía. El 28 de diciembre de 2010 compré el que creo, en su momento, era el último ejemplar en El Salvador de "El Nombre del Viento" de Patrick Rothfuss. Me costó más o menos $35. Fueron 872 páginas de pura genialidad. 
 
 Siete meses después compré mi siguiente dosis de fantasía: "A Game of Thrones", me costó $20. Lo terminé de leer y cuando me quedó chance (de tiempo y dinero) compré a "A Clash of Kings", otros $20. 
 
-Pagar $75 por más de dos mil páginas de fantasía épica podría parecer justo pero realmente no quería pagar otros $20 por el siguiente libro de la saga "A Storm of Swords" y los 2 restantes. Esos 5 libros de George R.R. Martin me iban a costar al menos $100.
+Pagar $75 por más de dos mil páginas de fantasía épica podría parecer justo pero realmente no quería pagar otros $20 por el siguiente libro de la saga "A Storm of Swords" y $40 más por los 2 restantes. Esos 5 libros de George R.R. Martin me iban a costar al menos $100. Y si lo sumo al resto de series de fantasía que leo, el monto total es simplemente demasiado.
 
 Busqué los libros en Amazon.com. La versión "paperback" (pasta blanda) que compré en El Salvador costaba más o menos $13 + gastos de envío pero la versión digital solo costaba $8 ¡y sin gastos de envío! No lo sobrepensé (raro en mí). Compré un Kindle y mi primer libro digital: "A Storm of Swords".
 
@@ -67,15 +67,15 @@ Para ponerte al tanto de los costos. Si ahora quisieras comprar los 5 libros de 
 </table>
 
 
-Mass Market es lo que se conoce como "Edición de Bolsillo", es de pasta blanda. Paperback también es una edición de pasta blanda pero las dimensiones del libro son mayores al Mass Market. La versión "Hardcover" o "Pasta Dura" es de mayor calidad no solo por la pasta sino por el tipo de papel utilizado, las páginas están cocidas y no pegadas como en las otras versiones.
+"Mass Market2 es lo que se conoce como "Edición de Bolsillo", es de pasta blanda. "Paperback" también es una edición de pasta blanda pero las dimensiones del libro son mayores al Mass Market. La versión "Hardcover" o "Pasta Dura" es de mayor calidad no solo por la pasta sino por el tipo de papel utilizado, las páginas están cocidas y no pegadas como en las otras versiones.
 
-En lo personal, tratándose exclusivamente de libros físicos, compraría un libro en formato Mass Market cuando solo me interesa el contenido, leerlo y ya. Si quisiera coleccionarlo compraría la versión Paperback o Hardcover.
+En lo personal, tratándose exclusivamente de libros físicos, compraría un libro en formato "Mass Market" cuando quiero leerlo y ya. Si quisiera coleccionarlo compraría la versión "Paperback" o "Hardcover".
 
 Para el caso de la serie de libros de "A Game of Thrones" siendo tan extensos y tan pesados, los costos de los libros físicos son muy altos. La versión digital, solo por su precio, resulta increíblemente atractiva.
 
 ### Cosas geniales sobre los libros digitales.
 
-De cualquier forma. ¿Por qué eligirías la versión física? ¿por qué esa necesidad de sentir las hojas y eso? ¿por qué ese deseo de coleccionarlos y [colocarlos en las casas como si fueran trofeos][lnk-to-seinfeld-books]? ¿por que no simplemente disfrutar el libro por su contenido y los beneficios adicionales de la versión digital?
+De cualquier forma. ¿Por qué eligirías la versión física? ¿por qué esa necesidad de sentir las hojas y eso? ¿por qué ese deseo de coleccionarlos y [colocarlos en las casas como si fueran trofeos][lnk-to-seinfeld-books]? ¿por qué no simplemente disfrutas el libro por su contenido y los beneficios adicionales de la versión digital?
 
 Solo para que tengas una idea de cosas geniales que puedes hacer con libros digitales y que nunca podrás hacer con un libro físico:
 
@@ -93,13 +93,13 @@ Además, lees más. Mucho más. En 2011 leí 3 o 4 libros. Entre 2012 y hoy he l
 
 ### Mitos
 
-Siempre habrán mitos sobre los libros digitales: dañan los ojos, son un conspiración para que compres e-readers, etc. Podrán haber post para desmentirlos todos, pero este no se trata de eso. Sin embargo el último que escuché fue que un "ebook" no es para siempre porque la tecnología cambia. Y dado que fue un amigo quien me lo dijo, me siento obligado a responder.
+Siempre habrán mitos sobre los libros digitales: que dañan los ojos, que son un conspiración para que compres e-readers, etc. El último que escuché fue que un "e-book" no es para siempre porque la tecnología cambia. Y dado que fue un amigo quien me lo dijo, me siento obligado a responder.
 
-Los libros digitales son para siempre, siempre y cuando seas el dueño del archivo. No descarto que en el futuro existan mejores tecnologías para digitalizar libros pero puedo garantizar que siempre habrá una app, un programa con el que podrás leerlo o si lo prefieres, convertirlo a este mejor formato (porque nuevo es siempre mejor, verdad). Siempre podrás hacer copias de respaldo y guardarlas en Internet o discos propios. Y puedes vivir sin el temor de que alguien lo manche o lo queme (literalmente).
+Los libros digitales son para siempre, siempre y cuando seas el dueño del archivo. Es probable que en el futuro existan mejores tecnologías para digitalizar libros pero puedo garantizar que siempre habrá una app, un programa con el que podrás leerlo o si lo prefieres, convertirlo a este mejor formato (porque nuevo es siempre mejor, verdad). Siempre podrás hacer copias de respaldo y guardarlas en Internet o discos propios. Y puedes vivir sin el temor de que algún cretino lo manche o lo queme (literalmente).
 
-Curiosamente ese mito podría darse con la música o las fotografías digitales pero por alguna razón la gente no se aferra a los tocadiscos ni a las cámaras Polaroid. ¿Por qué debería ser diferente con los libros?
+Curiosamente ese mito podría darse con la música o las fotografías digitales pero por alguna razón la gente no se aferra a los tocadiscos ni a las Polaroids. ¿Por qué debería ser diferente con los libros?
 
-Supongo que siempre habrán mitos y excusas para descartar los libros digitales. Yo creo que son geniales, y que, salvo excepciones, la experiencia de lectura es mejor que la de los libros físicos. El cambio es fácil, lo único que toma es hacer el primer intento.
+Excusas abundan para descartar los e-books. Al final es tu opción decidir no darle importancia a esta tecnología. Yo creo que son geniales, y que, salvo excepciones, la experiencia de lectura es mejor que la de los libros físicos y solo lo comento porque soy de la idea de que si no los has probado te estás perdiendo de algo bueno.
 
 Eso es todo por ahora.
 
