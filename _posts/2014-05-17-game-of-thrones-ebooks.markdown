@@ -99,7 +99,7 @@ Los libros digitales son para siempre, siempre y cuando seas el dueño del archi
 
 Curiosamente ese mito podría darse con la música o las fotografías digitales pero por alguna razón la gente no se aferra a los tocadiscos ni a las cámaras Polaroid. ¿Por qué debería ser diferente con los libros?
 
-Lo único que se requiere es olvidarse de prejuicios, reconocer las ventajas y dar el primer paso. Yo lo hice y no he mirado hacia atrás.
+Supongo que siempre habrán mitos y excusas para descartar los libros digitales. Yo creo que son geniales, y que, salvo excepciones, la experiencia de lectura es mejor que la de los libros físicos. El cambio es fácil, lo único que toma es hacer el primer intento.
 
 Eso es todo por ahora.
 
