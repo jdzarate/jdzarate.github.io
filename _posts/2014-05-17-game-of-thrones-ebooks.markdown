@@ -81,11 +81,11 @@ Solo para que tengas una idea de cosas geniales que puedes hacer con libros digi
 
 1.	Puedes obtener definiciones de palabras con solo tocarlas.
 
-	![Kindle A Song of Ice and Fire - Definitions]({{ site.url }}/assets/kindle-asoiaf/kindle-asoiaf-definition.png)
+	![Kindle A Song of Ice and Fire - Definitions]({{ site.url }}/assets/kindle-asoiaf/kindle-asoiaf-definition.jpg)
 
 2.	Puedes obtener data importante sobre un personaje o un lugar, filtrando por página o capítulo de un libro.
 
-	![Kindle A Song of Ice and Fire - XRay]({{ site.url }}/assets/kindle-asoiaf/kindle-asoiaf-xray.png)
+	![Kindle A Song of Ice and Fire - XRay]({{ site.url }}/assets/kindle-asoiaf/kindle-asoiaf-xray.jpg)
 
 3.	Puedes adquirir libros digitales en menos de 1 minuto. A nadie le gusta esperar. 
 
