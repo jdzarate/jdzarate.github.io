@@ -215,6 +215,15 @@ ul.posts li a:visited{
   font-weight: 300;
 }
 
+ol li p, ul li p{
+  font-family: 'Vollkorn', sans-serif;
+  line-height: 1.7;
+  font-size: 1em !important;
+  font-weight: 300;
+}
+
+
+
 /* terminal */
 .post pre.terminal {
   border: 1px solid #000;

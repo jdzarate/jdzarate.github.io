@@ -43,10 +43,10 @@
 	q:before, q:after {
 		content: '';
 		content: none; }
-	table {
+/*	table {
 		border-collapse: collapse;
 		border-spacing: 0; }
-
+*/
 
 /* #Basic Styles
 ================================================== */
@@ -266,3 +266,27 @@
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
 
+table{
+  border-collapse: collapse;
+  border-spacing: 0;
+  empty-cells: show;
+  border: 1px solid #cbcbcb;
+  font-family: 'Vollkorn', sans-serif;
+  margin: 1em 0;
+}
+
+thead {
+background: #e0e0e0;
+color: #000;
+text-align: left;
+vertical-align: bottom;
+}
+
+td,  th {
+border-left: 1px solid #cbcbcb;
+border-width: 0 0 0 1px;
+font-size: inherit;
+margin: 0;
+overflow: visible;
+padding: 6px 12px;
+}
