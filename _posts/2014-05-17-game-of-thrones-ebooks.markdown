@@ -67,7 +67,7 @@ Para ponerte al tanto de los costos. Si ahora quisieras comprar los 5 libros de 
 </table>
 
 
-"Mass Market2 es lo que se conoce como "Edición de Bolsillo", es de pasta blanda. "Paperback" también es una edición de pasta blanda pero las dimensiones del libro son mayores al Mass Market. La versión "Hardcover" o "Pasta Dura" es de mayor calidad no solo por la pasta sino por el tipo de papel utilizado, las páginas están cocidas y no pegadas como en las otras versiones.
+"Mass Market" es lo que se conoce como "Edición de Bolsillo", es de pasta blanda. "Paperback" también es una edición de pasta blanda pero las dimensiones del libro son mayores al Mass Market. La versión "Hardcover" o "Pasta Dura" es de mayor calidad no solo por la pasta sino por el tipo de papel utilizado, las páginas están cocidas y no pegadas como en las otras versiones.
 
 En lo personal, tratándose exclusivamente de libros físicos, compraría un libro en formato "Mass Market" cuando quiero leerlo y ya. Si quisiera coleccionarlo compraría la versión "Paperback" o "Hardcover".
 
