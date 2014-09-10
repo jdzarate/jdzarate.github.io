@@ -16,7 +16,7 @@ Locke Lamora es el líder de los Caballeros Bastardos (Gentleman Bastards). Desd
 
 El mundo que crea [Scott Lynch](https://twitter.com/scottlynch78) es interesante, igual la trama, pero lo que más me gustó del libro son los personajes y su camaradería. Es imposible no conectarse con Locke Lamora, Jean Tannen y el resto de Caballeros Bastardos; sí, son criminales pero qué importa, son geniales.
 
-Está eso y el lenguaje, el nivel de palabrotas es precioso. Solo espero el día en que pueda llegar a decir algo de este calibre:
+Está eso y el lenguaje, el nivel de maldiciones es precioso. Solo espero el día en que pueda llegar a decir algo de este calibre:
 
 > I’ll thrash on you until you’re inventing new gods to pray to.
 
