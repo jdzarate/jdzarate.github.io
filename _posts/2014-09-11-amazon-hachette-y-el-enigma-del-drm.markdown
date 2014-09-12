@@ -40,7 +40,7 @@ A Pottermore le conviene que sus libros estén en Amazon por esa promoción y de
 
 Pottermore recibe un trato preferencial porque hizo valer su posición y porque no entregó armas que eventualmente le jugarían en su contra...
 
-Amazon no es maligno. En lo personal, seguiré comprando ebooks allí pero no me gustaría que se convirtiera en un monopolio. Me gusta tener la opción de comprar ebooks donde sea y leerlos en cualquier plataforma que quiera. El DRM no es solo un capricho, es malo para la competencia y su abolición le daría más control a quiene se suponen deben tenerlo. 
+Amazon no es maligno. En lo personal, seguiré comprando ebooks allí pero no me gustaría que se convirtiera en un monopolio. Me gusta tener la opción de comprar ebooks donde sea y leerlos en cualquier plataforma que quiera. El DRM no es solo un capricho, es malo para la competencia y su abolición le daría más control a quienes se suponen deben tenerlo. 
 
 Al final el DRM no es causa ni solución del problema inicial de estos dos gigantes Pro DRM, pero si es el precio el origen de la disputa, ya vimos como otra "publicadora" pudo ingresar a este mercado sin tener que comprometerse.
 
