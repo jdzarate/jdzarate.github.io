@@ -2,7 +2,7 @@
 layout: post
 title: "Amazon, Hachette y el enigma del DRM"
 date:   2014-09-11 22:13:00
-excerpt: En el que escribo sobre la disputa entre Amazon y Hachette, y cómo el DRM es un un arma que ha jugado en contra de alguien.
+excerpt: En el que escribo sobre la disputa entre Amazon y Hachette, y cómo el DRM es un arma que pudo haber jugado en contra de alguien.
 categories:
 - blog
 ---
