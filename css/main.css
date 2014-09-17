@@ -75,11 +75,11 @@ ul.posts li a{
 }
 
 ul.posts li a:link{
-  text-decoration: none;
+  text-decoration:none;
+  border-bottom: 1px #181818 dotted;
 }
 
 ul.posts li a:hover{
-  text-decoration: underline;
 }
 
 ul.posts li a:visited{
@@ -242,10 +242,12 @@ ol li p, ul li p{
 .posts .post-name{
   font-family: 'Vollkorn', sans-serif;
   font-weight: 300;
+
 }
 
 .posts .post-name a{
   color: #181818;
+  text-decoration: underline;
 }
 
 /*****************************************************************************/
@@ -269,6 +271,8 @@ ol li p, ul li p{
 
 h1.header-content{
   font-size: 2em;
+  text-align: center;
+  text-shadow: 0px 0px 1px #808080;
 }
 
 .highlight{font-family: 'Inconsolata', monospace, sans-serif;}
