@@ -6,7 +6,7 @@ categories:
 - book-writeup
 ---
 
-Ah, las mentiras de Locke Lomora...
+Ah, las mentiras de Locke Lamora...
 
 Me enteré del libro por una [recomendación de Patrick Rothfuss](http://www.goodreads.com/review/show/99607064) en la que dice que está en el top 10 de libros que ha leído. Lo tuve en mi "wishlist" de Amazon desde octubre del año pasado hasta que mi hermano me lo regaló en junio por mi cumpleaños.
 
