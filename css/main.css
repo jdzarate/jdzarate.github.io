@@ -185,7 +185,6 @@ ul.posts li a:visited{
 }
 
 .site .footer .contact {
-  float: left;
   margin-right: 3em;
 }
 
@@ -209,6 +208,11 @@ ul.posts li a:visited{
 
 .site .footer .rss img {
   border: 0;
+}
+
+.subscribe{
+  display: block;
+  font-size: 1.2em !important;
 }
 
 /*****************************************************************************/
