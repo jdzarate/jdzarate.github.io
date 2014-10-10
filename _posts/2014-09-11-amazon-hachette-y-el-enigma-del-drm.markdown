@@ -9,7 +9,7 @@ categories:
 
 La pelea de Amazon y Hachette se ha calmado en cuanto a que no hay muchas noticias de ninguno de los dos lados. Desde mayo he leído un montón de posturas de escritores importantes como [John Scalzi][lnk-scalzi], [Neil Gaiman][lnk-gaiman] y [Hugh Howey][lnk-howey], así como de las partes involucradas.
 
-Quizá me salte algo: Amazon ha quitado de su tienda todos los ebooks de la publicadora Hachette porque quieren negociar el precio de los libros. Amazon dice que los ebooks no deben costar más de $9.99, en su website [Readers United][lnk-readers] (favor no involucrar a lectores en este rollo) comparan ganancias obtenidas vendiendo libros a $9.99 en lugar de $14.99; según sus números las ganancias mejoran en un 16% al vender a $9.99 porque se vende más, esto beneficia a todos porque la gente compra libros más baratos y Amazon, las publicadoras y los autores ganan más dinero y lectores; es decir, es la situación "Ganar Ganar".
+Quizá me salte algo: Amazon ha quitado de su tienda todos los ebooks de la publicadora Hachette porque quieren negociar el precio de los libros. Amazon dice que los ebooks no deben costar más de $9.99, en su website [Readers United][lnk-readers] ("lectores unidos", seguro) comparan ganancias obtenidas vendiendo libros a $9.99 en lugar de $14.99; según sus números las ganancias mejoran en un 16% al vender a $9.99 porque se vende más, esto beneficia a todos porque la gente compra libros más baratos y Amazon, las publicadoras y los autores ganan más dinero y lectores; es decir, es la situación "Ganar Ganar".
 
 Está claro que [Hachette no lo ve así][lnk-hachetteCEO]. Ellos quieren controlar sus precios como mejor les convenga. Ellos no ven al ebook como el punto central del negocio, es parte del conjunto. Venden libros en otros formatos como hardcovers y paperbacks; hay gastos de producción, de edición, de publicidad, y los ebooks también se ven afectados por esto. A Amazon le conviene más ventas de ebooks, pero bajar el precio podría causar un detrimento en la venta de copias físicas y eso podría no beneficiar a Hachette. Es complicado.
 
@@ -23,7 +23,7 @@ Con su DRM, Amazon restringe que los libros que compras en su tienda solo puedas
 
 Pero si el DRM es tan malo y no permite competencia ¿por qué Hachette fomenta el uso DRM en sus libros? es por el engaño de que esta protección evita la piratería cuando en la práctica la gente piratea lo que quiere. Lo que en verdad sugiere es que estas publicadoras no confían en la gente que sí compra sus libros. En lugar de premiarlos, los trata como criminales. 
 
-En abril de 2012 Tor Books anunció que todos sus libros se venderían sin DRM (incluso los que vende en Amazon y en cualquier otra plataforma). Un año después publicaron que no habían detectado aumento de piratería. Me atravería a decir que incluso ganaron clientes. Yo soy uno de ellos. Tor quizo ir más allá y crear su propia tienda pero a la fecha no lo han logrado. Pero aún si lo hubieran hecho, no creo que desechar a Amazon sea una muy buena idea.
+En abril de 2012 Tor Books anunció que todos sus libros se venderían sin DRM (incluso los que vende en Amazon y en cualquier otra plataforma). Un año después publicaron que no habían detectado aumento de piratería. Me atravería a decir que incluso ganaron clientes. Yo soy uno de ellos. Tor quiso ir más allá y crear su propia tienda pero a la fecha no lo han logrado. Pero aún si lo hubieran hecho, no creo que desechar a Amazon sea una muy buena idea.
 
 Amazon no es solo la tienda y distribuidora, es el lugar de descubrimiento. Si un libro existe, tiene que estar en Amazon y punto. Allí es el lugar donde buscas reviews y recomendaciones que no dependen de la publicadora. Que un libro esté en Amazon le conviene a ellos mismos y a todos los demás, pero las publicadoras no deberían darle más poder del necesario.
 
@@ -40,7 +40,7 @@ A Pottermore le conviene que sus libros estén en Amazon por esa promoción y de
 
 Pottermore recibe un trato preferencial porque hizo valer su posición y porque no entregó armas que eventualmente le jugarían en su contra...
 
-Amazon no es maligno. En lo personal, seguiré comprando ebooks allí pero no me gustaría que se convirtiera en un monopolio. Me gusta tener la opción de comprar ebooks donde sea y leerlos en cualquier plataforma que quiera. El DRM no es solo un capricho, es malo para la competencia y su abolición le daría más control a quienes se suponen deben tenerlo. 
+Amazon no es maligno. En lo personal, seguiré comprando ebooks allí pero no me gusta que se esté convirtiendo en un monopolio que toma libros como rehenes. Me gusta tener la opción de comprar ebooks donde sea y leerlos en la plataforma que quiera. El DRM no es solo un capricho, es malo para la competencia y su abolición le daría más control a quienes se suponen deben tenerlo.
 
 Al final el DRM no es causa ni solución del problema inicial de estos dos gigantes Pro DRM, pero si es el precio el origen de la disputa, ya vimos como otra "publicadora" pudo ingresar a este mercado sin tener que comprometerse.
 
