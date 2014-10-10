@@ -51,7 +51,8 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #fff;
+		/*background: #fff;*/
+		background: #f9f9f9;
 		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
@@ -74,7 +75,7 @@
 	h6 { font-size: 14px; line-height: 21px; }
 	.subheader { color: #777; }
 
-	p { margin: 0 0 20px 0; }
+	p { margin: 0 0 20px 0; font-family: "Vollkorn","Georgia", "Times New Roman", serif;}
 	p img { margin: 0; }
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 

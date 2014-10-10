@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: #f9f9f9;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -60,7 +60,7 @@ ul.posts {
 ul.posts li {
   line-height: 1.75em;
   font-family: 'Vollkorn', sans-serif;
-  margin: 2.5em 0;
+  margin: 2em 0;
 }
 
 ul.posts span {
@@ -75,8 +75,8 @@ ul.posts li a{
 }
 
 ul.posts li a:link{
-  text-decoration:none;
-  border-bottom: 1px #181818 dotted;
+  text-decoration:underline;
+  color: #263238;
 }
 
 ul.posts li a:hover{
@@ -91,19 +91,54 @@ ul.posts li a:visited{
 /* Site
 /*
 /*****************************************************************************/
+.site-header{
+  font-size: 115%;
+  text-align: left;
+  /*width: 42em;*/
+  line-height: 1.5em;
+  background-color: #f9f9f9;
+}
+
+.site-header .header a {
+  text-decoration: none;
+  font-size: 100%;
+  color: #fff;
+}
+
+.site-subheader{
+  text-align: left;
+}
+
+.site-subheader .navbar a{
+  color: #263238;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.site-subheader .navbar {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
 
 .site {
   font-size: 115%;
   text-align: left;
   /*width: 42em;*/
-  margin: 3em auto 2em;
+  margin: 0.5em auto 2em;
   line-height: 1.5em;
+  background-color: #f9f9f9;
 }
 
 .site .header a {
   font-weight: bold;
   text-decoration: none;
   font-size: 100%;
+  color: #fff;
+}
+
+.site .header a:visited {
+  color: #f9f9f9;
 }
 
 .site .header h1.title {
@@ -116,7 +151,7 @@ ul.posts li a:visited{
   font-size: 0.9em;
   font-weight: 400;
   font-family: 'Vollkorn', sans-serif;
-  color: #181818;
+  color: #fff;
 }
 
 .site .header h1.title a:hover {
@@ -271,7 +306,7 @@ ol li p, ul li p{
 
 h1.header-content{
   font-size: 2em;
-  text-align: center;
+  text-align: left;
   text-shadow: 0px 0px 1px #808080;
 }
 
@@ -322,7 +357,7 @@ user-select: none;
 
 /* Nav Bar */
 ul.navbar{
-  margin-top: 1.2em;
+  margin-top: 0.5em;
   font-family: 'Vollkorn', serif;
   padding-left: 5px;
 }
@@ -330,7 +365,9 @@ ul.navbar{
 ul.navbar li{
   display: inline;
   list-style-type: none;
-  padding-right: 20px;
+  margin-right: 25px;
+  width: 100px;
+  line-height: 2;
 }
 
 iframe.r3{
