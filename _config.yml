@@ -1,3 +1,5 @@
-name: José Daniel Zárate
+name: Blog de J.D. Zárate
 markdown: redcarpet
 pygments: true
+description: J.D. escribe sobre tecnología y cualquier otra ocurrencia
+url: http://www.jdzarate.com
