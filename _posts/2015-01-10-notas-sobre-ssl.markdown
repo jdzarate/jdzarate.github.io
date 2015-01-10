@@ -2,7 +2,7 @@
 layout: post
 title: "Notas sobre SSL (Something Sad and Lame)"
 date:   2015-01-10 13:00:00
-excerpt: En el que escribo por qué me motivé a instalar certificados SSL en mis web apps y un par de cosas que encontré interesante antes y después.
+excerpt: En el que escribo por qué me motivé a instalar certificados SSL en mis web apps y un par de cosas que encontré interesantes antes y después.
 categories:
 - blog
 ---
