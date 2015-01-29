@@ -19,7 +19,7 @@ No estaba mintiendo, eran puntos válidos, eran también pura porquería.
 
 Sí, las web apps se construyen más rápido, básicamente aprendes un solo lenguaje (o utilizas uno que ya conoces) en lugar de dos o tres, y cuando se trata de startups, todos los segundos cuentan, los recursos son limitados, especialmente cuando tienes otro trabajo a tiempo completo.
 
-Es algo curioso como muchos startups siguen la [Regla de Dos](http://es.starwars.wikia.com/wiki/Regla_de_Dos): así como los Siths, los fundadores vienen en pares (al menos al inicio). En mi caso, mi co-fundador es un Apple "fan boy" mientras que yo prefiero Android. ¿Quién tiene la ventaja en ese caso? Si no teníamos el tiempo para hacer ambas versiones, ¿cuál se supone que teníamos que hacer? Es difícil elegir, así que la opción más fácil era diseñar una web app, algo que podía utilizarse en ambas plataformas.
+Es algo curioso como muchos startups siguen la [Regla de Dos](http://es.starwars.wikia.com/wiki/Regla_de_Dos): así como los Siths, los fundadores vienen en pares. En mi caso, mi co-fundador es un Apple "fan boy" mientras que yo prefiero Android. ¿Quién tiene la ventaja en ese caso? Si no teníamos el tiempo para hacer ambas versiones, ¿cuál se supone que teníamos que hacer? Es difícil elegir, así que la opción más fácil era diseñar una web app, algo que podía utilizarse en ambas plataformas.
 
 Flojera. No quería aprender nuevos lenguajes. No quería escribir más código. No quería elegir una plataforma.
 
