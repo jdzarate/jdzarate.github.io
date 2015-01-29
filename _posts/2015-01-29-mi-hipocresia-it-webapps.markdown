@@ -9,7 +9,7 @@ categories:
 
 La semana pasada noté que soy un poco hipócrita sobre algunas cosas IT. Quizá estaba siendo un poco duro conmigo mismo, quizá no. No es que importe, es solo que me molestaba un poco.
 
-Me gusta verme como un desarrollador de software, aunque nadie me vea programando últimamente. Cuando me gradué comencé a programar con PHP y eventualmente aprendí Python y sus frameworks geniales (lo que significa que solo aprendí Django y solo un poco, no soy ningún experto) después ya no seguí aprendiendo más lenguajes de programación porque tuve la necesidad.
+Me gusta verme como un desarrollador de software, aunque nadie me vea programando últimamente. Cuando me gradué comencé a programar con PHP y eventualmente aprendí Python y sus frameworks geniales (lo que significa que solo aprendí Django y solo un poco, no soy ningún experto) después ya no seguí aprendiendo más lenguajes de programación porque no cutuve la necesidad.
 
 En los últimos años me vi atrapado en la tormenta de los startups. Colaboré en el desarrollo de un par de proyectos interesantes, web apps, y por eso quiero decir sitios web con un mecanismo de ingreso de usuarios y alguna funcionalidad. Para dispositivos móviles reutilizamos las web apps en lugar de crear aplicaciones nativas.
 
@@ -17,13 +17,13 @@ En los últimos años me vi atrapado en la tormenta de los startups. Colaboré e
 
 No estaba mintiendo, eran puntos válidos, eran también pura porquería.
 
-Sí, las web apps se construyen más rápido, básicamente aprendes un solo lenguaje (o utilizas uno que ya conoces) en lugar de dos o tres, y cuando se trata de de startups, todos los segundos cuentan, los recursos son limitados, especialmente cuando tienes otro trabajo a tiempo completo.
+Sí, las web apps se construyen más rápido, básicamente aprendes un solo lenguaje (o utilizas uno que ya conoces) en lugar de dos o tres, y cuando se trata de startups, todos los segundos cuentan, los recursos son limitados, especialmente cuando tienes otro trabajo a tiempo completo.
 
 Es algo curioso como muchos startups siguen la [Regla de Dos](http://es.starwars.wikia.com/wiki/Regla_de_Dos): así como los Siths, los fundadores vienen en pares (al menos al inicio). En mi caso, mi co-fundador es un Apple "fan boy" mientras que yo prefiero Android. ¿Quién tiene la ventaja en ese caso? Si no teníamos el tiempo para hacer ambas versiones, ¿cuál se supone que teníamos que hacer? Es difícil elegir, así que la opción más fácil era diseñar una web app, algo que podía utilizarse en ambas plataformas.
 
 Flojera. No quería aprender nuevos lenguajes. No quería escribir más código. No quería elegir una plataforma.
 
-Así que la web app estaba bien. Eso me daba la oportunidad que decir que los productos deben ser abiertos y disponibles para todos y no funcionar solo en el Internet de Apple o en el internet de Google, o el Internet de Blackberry o Windows (aunque siendo honesto, realmente no me importaban los últimos dos).
+Así que la web app estaba bien. Eso me daba la oportunidad que decir que los productos deben ser abiertos y disponibles para todos y no funcionar solo en el Internet de Apple o en el Internet de Google, o el Internet de Blackberry o Windows (aunque siendo honesto, realmente no me importaban los últimos dos).
 
 Y después hice esa cosa en la que utilizas un mecanismo de ingreso de usuario de terceros en lugar de uno propio. Ya los has visto, esos "Ingresa con [algún-sitio-popular.com]". Eso se traduce a que elegí que la aplicación solo funcionara en el Internet de Facebook o en el de Twitter, etc. ¿Eso es abierto y para todos? Mmm, creo que no.
 
