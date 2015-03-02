@@ -7,7 +7,7 @@ categories:
 - blog
 ---
 
-"Tengo que hacer ejercicio". Cada vez que me reunía con mis amigos esa era una de mis frases más recurrentes compitiendo con "Qué hay" y "Allí, tranquilo". A pesar de decirlo, no tomaba acción. Creí que era una necesidad porque nunca me había sentido tan falto de forma y en mi plan de vida a 10 o más años está tener buen "stamina" (salir con veinteañeras será demandante) y no ser gordo porque personalidad no me lo permite, no soy muy jovial o simpático.
+"Tengo que hacer ejercicio". Cada vez que me reunía con mis amigos esa era una de mis frases más recurrentes compitiendo con "Qué hay" y "Allí, tranquilo". A pesar de decirlo, no tomaba acción. Creí que era una necesidad porque nunca me había sentido tan falto de forma y en mi plan de vida a 10 o más años está tener buen "stamina" (salir con veinteañeras será demandante) y no ser gordo porque mi personalidad no me lo permite, no soy muy jovial o simpático.
 
 Estúpidos estereotipos al lado... a principios del mes pasado recibí un correo con la invitación a participar en un reto que requería formar un grupo de al menos 15 compañeros de trabajo para completar una serie de caminatas virtuales durante 8 semanas. Me inscribí, compré mi podómetro, un par de zapatos y esta semana completé mi primera caminata virtual: ir desde la Sierra de Mendanha hasta Río de Janeiro, 45,500 pasos a la semana, 6,500 pasos al día.
 
