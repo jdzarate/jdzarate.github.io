@@ -19,7 +19,7 @@ De martes a sábado salí a correr a las 5 de la mañana. Por correr me refiero 
 
 La verdad es que salir a esa hora no es tan malo como creí que sería. Es una hora bastante minimalista: menos luz, menos ruido, menos gente y menos máquinas de la muerte que los humanos usamos de vez en cuando para trasladarnos de un lugar a otro. A esa hora estoy solo en la oscuridad, y no en la usual forma metafórica. A esa hora me siento un poco más en paz en conmigo porque no me llevo mis problemas.
 
-Así que lunes 1632 pasos, martes 8176, miércoles 10259, jueves 9126, viernes 9758 y sábado 8685. Casi 35 kilómetros recorridos. No está tan mal para mi primera semana.
+Así que el lunes caminé 1632 pasos, martes 8176, miércoles 10259, jueves 9126, viernes 9758 y sábado 8685. Más de 47 mil pasos en total, casi 35 kilómetros recorridos. No está tan mal para mi primera semana.
 
 Espero que no sea de esas cosas, típicas mías, que comienzo y no termino porque al final es para el bien común, para mejorar mi salud y estilo de vida por esas veinteañeras...
 
