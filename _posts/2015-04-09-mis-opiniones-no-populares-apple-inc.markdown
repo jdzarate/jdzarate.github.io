@@ -34,3 +34,7 @@ Que sus computadoras incluyan puertos USB C es buenísimo proliferar con mayor r
 Probablemente estoy equivocado. [Randall Munroe no pudo haber externalizado mejor que tan equivocado puedo estar](http://www.xkcd.com/1497/). Sin embargo, Apple no solía ser una compañía que "revolucionaba por revolucionar", estaban en una isla aparte y ahora parece que sus "inventos" son respuestas a otros productos y no a la identificación de necesidades reales. 
 
 De verdad quisiera ver nuevamente esos productos únicos y brillantes, y no esos que, como dice Tim Cook, "puede que en retrospectiva la gente vea su valor".
+
+Y allí termina mi queja por ahora.
+
+J.D.
