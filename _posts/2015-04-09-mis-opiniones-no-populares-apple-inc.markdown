@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mis opiniones no populares: Apple Inc. Edition"
-date:   2015-04-09 06:00:00
+date:   2015-04-09 07:00:00
 excerpt: En el que escribo sobre Apple, el "Watch" y memorias sobre mi iPod Shuffle de primera generación.
 categories:
 - blog
