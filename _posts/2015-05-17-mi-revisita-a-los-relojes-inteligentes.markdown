@@ -6,31 +6,31 @@ excerpt: En el que escribo sobre lo que esperaba de los relojes inteligentes y c
 categories:
 - blog
 ---
-Era una tarde muy calurosa en La Bahía, los Gigantes perdían 6 carreras a 1 contra los Medias Rojas en la parte alta de la 8va. Madison Bumgarner tenía un día de pesadilla; el daño estaba hecho pero él seguía en el montículo con la esperanza de una reacción en las próximas 2 entradas. Los fanáticos inclementes comenzaban a retirarse de las gradas no sin antes abuchear a ese a quien tanto admiran simplemente porque les gusta ver a un héroe caer.
+*Era una tarde muy calurosa en La Bahía, los Gigantes perdían 6 carreras a 1 contra los Medias Rojas en la parte alta de la 8va. Madison Bumgarner tenía un día de pesadilla; el daño estaba hecho pero él seguía en el montículo con la esperanza de una reacción en las próximas 2 entradas. Los fanáticos inclementes comenzaban a retirarse de las gradas no sin antes abuchear a ese a quien tanto admiran simplemente porque les gusta ver a un héroe caer.*
 
-En los graderíos aún permanecían dos adultos que conversaban de forma relajada en asientos cercanos a la tercera base. Había algo inspirador en ese estadio y poco tenía que ver con las acciones del juego. El tema de conversación era el reloj ubicado justo arriba de la pantalla gigante que mostraba el último cuadrangular del Big Papi. El mayor de los dos le dice a su acompañante:
+*En los graderíos aún permanecían dos adultos que conversaban de forma relajada en asientos cercanos a la tercera base. Había algo inspirador en ese estadio y poco tenía que ver con las acciones del juego. El tema de conversación era el reloj ubicado justo arriba de la pantalla gigante que mostraba el último cuadrangular del Big Papi. El mayor de los dos le dice a su acompañante:*
 
-- -¿Ves el reloj del estadio? Tu padre tenía un reloj de bolsillo con una careta exactamente igual. Nunca entendí porque lo utilizaba, quien querría andar todo el día con un reloj en su bolsillo.
+*-¿Ves el reloj del estadio? Tu padre tenía un reloj de bolsillo con una careta exactamente igual. Nunca entendí porque lo utilizaba, quien querría andar todo el día con un reloj en su bolsillo.*
 
-- -¿De qué hablas? - pregunta el chico luego de sacar su smartphone - pero si todavía tenemos relojes en nuestros bolsillos. 
+*-¿De qué hablas? - pregunta el chico luego de sacar su smartphone - pero si todavía tenemos relojes en nuestros bolsillos.* 
 
-- -¡Ja! Supongo que tienes razón. Es como si la historia estuviera en un ciclo infinito.
+*-¡Ja! Supongo que tienes razón. Es como si la historia estuviera en un ciclo infinito.*
 
-- -Sí. Es lo que pensaba discutir con Jonathan esta semana. ¿no sería genial construir un reloj con funciones "inteligentes"? Ya otros lo están haciendo.
+*-Sí. Es lo que pensaba discutir con Jonathan esta semana. ¿no sería genial construir un reloj con funciones "inteligentes"? Ya otros lo están haciendo.*
 
-- -De hecho es una mierda sacar el teléfono cada vez que recibo un mensaje.
+*-De hecho es una mierda sacar el teléfono cada vez que recibo un mensaje.*
 
-- -Exacto, notificaciones, sensores, un par de comandos de voz. ¿qué tan difícil puede ser?
+*-Exacto, notificaciones, sensores, un par de comandos de voz. ¿qué tan difícil puede ser?*
 
-- -No creo que sea muy complicado, los coreanos del robotito ya tienen un prototipo.
+*-No creo que sea muy complicado, los coreanos del robotito ya tienen un prototipo.*
 
-- -Sep. Pero hay que dar algo más, pensaba que el reloj también podría encender una llama con intensidad controlada por la manecilla, sería más fácil encender los cigarrillos desde tu muñeca podríamos cobrar por las recargas, ya sabes, rasuradoras y cuchillas...
+*-Sep. Pero hay que dar algo más, pensaba que el reloj también podría encender una llama con intensidad controlada por la manecilla, sería más fácil encender los cigarrillos desde tu muñeca podríamos cobrar por las recargas, ya sabes, rasuradoras y cuchillas...*
 
-- -Maldita sea, lo compraría de inmediato. Pero no vayamos tan lejos todavía, empecemos con notificaciones y sensores. Te digo, vas por muy buen camino chico, podemos esperar cosas grandes de tí ¡10 puntos para Stanford!
+*-Maldita sea, lo compraría de inmediato. Pero no vayamos tan lejos todavía, empecemos con notificaciones y sensores. Te digo, vas por muy buen camino chico, podemos esperar cosas grandes de tí ¡10 puntos para Stanford!*
 
--  -Que sean 50.
+*-Que sean 50.*
 
-- -Hecho. Creo que este año por fin ganarán la Liga Ivy.
+*-Hecho. Creo que este año por fin ganarán la Liga Ivy.*
 
 Bueno, ya basta de ficción mediocre.
 
