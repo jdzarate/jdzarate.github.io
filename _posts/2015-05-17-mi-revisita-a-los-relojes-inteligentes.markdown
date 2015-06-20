@@ -16,7 +16,7 @@ categories:
 
 *-¡Ja! Supongo que tienes razón. Es como si la historia estuviera en un ciclo infinito.*
 
-*-Sí. Es lo que pensaba discutir con Jonathan esta semana. ¿no sería genial construir un reloj con funciones "inteligentes"? Ya otros lo están haciendo.*
+*-Sí. Es lo que pensaba discutir con Jonathan esta semana. ¿no sería genial construir un reloj con funciones "inteligentes"? Ya otros lo están haciendo.*
 
 *-De hecho es una mierda sacar el teléfono cada vez que recibo un mensaje.*
 
