@@ -28,8 +28,8 @@ No creo que esté siendo irracional con mis peticiones, solo quiero algo bien he
 
 No, creo que pueden empezar por dejar de ser unos cretinos ortodoxos y dar mejor soporte para libros de terceros y artículos de Internet, eso podría motivarme a comprar un Kindle nuevo.
 
-Y esas son mis 500 palabras en el asunto.
+Y esas son mis 500 palabras sobre el asunto.
 
-{ Saludos o algo}
+{Saludos o algo}
 
 J.D.
