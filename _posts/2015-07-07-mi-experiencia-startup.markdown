@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mi Experiencia Startup"
-date:   2015-07-107 22:50:00
+date:   2015-07-07 22:50:00
 excerpt: En el que escribo qué me motivó a empezar a trabajar en startups, qué me desmotivó a descontinuar mi trabajo y qué pasa después.
 categories:
 - blog
