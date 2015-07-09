@@ -66,13 +66,13 @@ Cada semana tenía el impulso de retomar los proyectos pero me obligaba a detene
 
 Bueno, no quiero que esto se convierta en *la decisión* de LeBron James y decir que llevaré mis talentos a Silicon Valley o donde sea que los *startups* se encuben estos días. Pero sí, ¡quiero trabajar de nuevo en un *startup*!
 
-En retrospectiva me doy cuenta que me hacía más bien que mal. No hubo una epifanía. Simplemente me tranquilicé, dejé que las cosas cayeran por su propio peso y dejé de ser presa de mi estúpido drama y autocompasión.
+En retrospectiva me doy cuenta que me hacía más bien que mal. No hubo una epifanía. Simplemente me tranquilicé, dejé que las cosas cayeran por su propio peso y dejé de ser presa de mi estúpido drama, autocompasión y tendencias autodestructivas.
 
 Empecé a sentirme harto otra vez. Harto de llegar a mi casa solo a ver televisión, partidos y no intentar siquiera aprender algo nuevo. Harto de desperdiciar mi tiempo en un estado letárgico cuando podría estar creando aplicaciones geniales con mi mejor amigo. 
 
-No se trata de dinero ni de fama sino de traer de vuelta la diversión y de volver a jactarme de las cosas que hacemos. Estoy en un estado diferente del que me encontraba cuando empecé. No necesito hacer esto pero quiero hacerlo. Me importa demasiado como para que quede así. No seria digno dejarlo así. Merece otra oportunidad.
+No se trata de dinero ni de fama sino de traer de vuelta esa diversión y de volver a jactarme de las cosas que hacemos. Estoy en un estado diferente del que me encontraba cuando empecé. No necesito hacer esto pero quiero hacerlo, me importa demasiado como para que termine de esa forma.
 
-Pero una amiga me lo dijo hace unas semanas "Tú no sabes nada J.D." y probablemente tenía razón. Al menos sé que eventualmente volveré a sentirme cansado y frustrado, es parte del trabajo y de la historia de mi vida. Nada nuevo.
+Una amiga me lo dijo hace unas semanas "Tú no sabes nada J.D." y tenía razón. No sé hacia dónde va todo esto y tampoco sé si es algo bueno (que no lo sepa). Lo que sí sé es que eventualmente volveré a sentirme cansado y frustrado, es parte del trabajo y de la historia de mi vida. Nada nuevo.
 
 Quizás en el fondo no soy más que un masoquista buscando un poco de emoción, buscando un poco de aventura como un pequeño *hobbit* luego de una vida rutinaria en la Comarca. 
 
