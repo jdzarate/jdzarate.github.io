@@ -72,13 +72,12 @@ Empecé a sentirme harto otra vez. Harto de llegar a mi casa solo a ver televisi
 
 No se trata de dinero ni de fama sino de traer de vuelta la diversión y de volver a jactarme de las cosas que hacemos. Estoy en un estado diferente del que me encontraba cuando empecé. No necesito hacer esto pero quiero hacerlo. Me importa demasiado como para que quede así. No seria digno dejarlo así. Merece otra oportunidad.
 
-Pero una amiga me lo dijo hace unas semanas: "Tú no sabes nada J.D."
-
-Al menos sé que eventualmente volveré a sentirme cansado y frustrado, es parte del trabajo y de la historia de mi vida. Nada nuevo.
+Pero una amiga me lo dijo hace unas semanas "Tú no sabes nada J.D." y probablemente tenía razón. Al menos sé que eventualmente volveré a sentirme cansado y frustrado, es parte del trabajo y de la historia de mi vida. Nada nuevo.
 
 Quizás en el fondo no soy más que un masoquista buscando un poco de emoción, buscando un poco de aventura como un pequeño *hobbit* luego de una vida rutinaria en la Comarca. 
 
 Certeza de muerte... pequeña posibilidad de éxito... ¿qué estamos esperando?
 
 --
+
 J.D.
