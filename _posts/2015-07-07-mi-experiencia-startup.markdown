@@ -12,7 +12,7 @@ Después de trabajar en *startups* por casi tres años sentí que no podía más
 
 Me frustré y empecé a resentirme. Consideraba estúpido todo lo que tuviera que ver con *startups* de Internet. Empecé a preguntarme ¿por qué tengo emocionarme por los BitCoins? ¿por qué tengo que pretender que una aplicación como "Yo" merece la pena? ¿por qué tengo que leer esos artículos y libros de *emprendedores* donde solo dan consejos vagos que realmente no me están ayudando a tener éxito?
 
-En realidad lo que debía preguntarme era ¿por qué tengo que hacer esto si claramente no lo estoy disfrutando? La respuesta era un simple "no", no tengo por qué hacerlo.
+En realidad lo que debía preguntarme era ¿por qué tengo que hacer esto si claramente no lo estoy disfrutando? La respuesta era un simple "no", no tengo por qué hacerlo.
 
 Así que eventualmente renuncié a mi trabajo a tiempo completo, empecé a trabajar en otro lugar y mis proyectos quedaron olvidados sin decir una palabra, no tenía porqué dar un anuncio o algo similar pero sí consideraba que al menos tuve que haberlo platicado con mi mejor amigo y co-fundador.
 
