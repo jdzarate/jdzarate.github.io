@@ -76,7 +76,7 @@ Una amiga me lo dijo hace unas semanas "Tú no sabes nada J.D." y tenía razón.
 
 Quizás en el fondo no soy más que un masoquista buscando un poco de emoción, buscando un poco de aventura como un pequeño *hobbit* luego de una vida rutinaria en la Comarca. 
 
-Certeza de muerte... pequeña posibilidad de éxito... ¿qué estamos esperando?
+Certeza de muerte... pequeña posibilidad de éxito... ¿qué estamos esperando?
 
 --
 
