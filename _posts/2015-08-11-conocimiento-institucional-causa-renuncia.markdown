@@ -32,4 +32,4 @@ Vaya idiota...
 
 J.D.
 
-Parte II: Conocimiento Institucional: causa de mejora (a publicar mañana).
+[Parte II: Conocimiento Institucional: causa de mejora](http://www.jdzarate.com/blog/2015/08/12/conocimiento-institucional-causa-mejora.html).
