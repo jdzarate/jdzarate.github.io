@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Conocimiento institucional: Causa de Mejora (Parte II)"
