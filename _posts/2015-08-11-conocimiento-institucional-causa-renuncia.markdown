@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Conocimiento institucional: causa de renuncia"
+title: "Conocimiento institucional: causa de renuncia (Parte I)"
 date:   2015-08-11 22:00:00
 excerpt: En el que escribo sobre cómo tuve miedo de que el conocimiento institucional me mantuviera en una institución de la que quería renunciar.
 categories:
