@@ -3,7 +3,7 @@
 layout: post
 title: "Conocimiento institucional: Causa de Mejora (Parte II)"
 date:   2015-08-12 21:00:00
-excerpt: En el que escribo sobre cómo mi nueva apreciación sobre el conocimiento institucional.
+excerpt: En el que escribo sobre mi nueva apreciación sobre el conocimiento institucional.
 categories:
 - blog
 ---
