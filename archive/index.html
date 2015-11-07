@@ -1,0 +1,18 @@
+---
+layout: default
+title: jdzarate.com - Archive
+---
+<div id="home" style="margin-top:1em;">
+  <h3 class="header-content">Archivo</h3>
+  <ul class="posts">
+    {% for post in site.posts %}
+    	{% if post.categories contains 'music-writeup' or post.categories contains 'book-writeup' %}			
+		{% else%}
+		<li style="overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">
+				<span>{{ post.date | date_to_string }}</span>
+				<a href="{{ post.url }}" class="post-name" style="margin-left: 0.5em;">{{ post.title }}</a>
+			</li>
+		{% endif %}
+    {% endfor %}
+  </ul>
+</div>
