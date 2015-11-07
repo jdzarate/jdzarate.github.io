@@ -1,17 +1,29 @@
 ---
 layout: default
-title: J.D. Zárate
+title: jdzarate.com
 ---
 <div id="home" style="">
-  <h1 class="header-content">Blog Posts</h1>
   <ul class="posts">
-    {% for post in site.categories.blog %}
-      <li>
-      	 <a href="{{ post.url }}" class="post-name" style="font-size:1.6em;">{{ post.title }}</a><br> 
-      	 <span>{{ post.date | date_to_string }}</span><br>
-      	<p>{{ post.excerpt }}<br></p>
+    {% for post in site.categories.blog limit:6%}
 
+      {% if forloop.first %}
+      <div class="post-container">
+        <span class="post-date">{{ post.date | date_to_string }}</span>
+        <h3>{{ post.title }}</h3>
+        <div class="post">
+        {{ post.content }}
+        </div>
+      </div>
+      <hr>
+      {% else%}
+      <li>
+         <span>{{ post.date | date_to_string }}</span>&nbsp;&nbsp;<a href="{{ post.url }}" class="post-name" style="">{{ post.title }}</a>
+         
       </li>
+      {% endif %}
+      
     {% endfor %}
   </ul>
+
+  <p><a href="">Ir al Archivo de posts</a></li></p>
 </div>

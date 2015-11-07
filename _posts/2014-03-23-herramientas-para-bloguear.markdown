@@ -10,7 +10,7 @@ Empezar a bloguear debería ser fácil. Muchas personas que quieren bloguear a v
 
 La elección de la tecnología depende mucho del tipo de uso que tendrá el blog. No sería práctico listar todas las posibilidades así que intentaré escribir sobre las que creo más importantes pero si sientes que el post es extenso o si te dan alergias por leer más de la cuenta puede ver el resumen al final.
 
-### Blogger ([http://blogger.com][lnk-blogger])
+#### Blogger ([http://blogger.com][lnk-blogger])
 
 Probablemente Blogger sea la opción más sencilla para comenzar. Es gratis y solamente necesitas tener experiencia navegando en Internet. 
 
@@ -28,7 +28,7 @@ Ejemplos de blogs que usan Blogger:
 * El blog de SalixOS ([http://salixos.blogspot.com/][lnk-blogSalix])
 
 
-### Tumblr ([http://tumblr.com][lnkTumblr])
+#### Tumblr ([http://tumblr.com][lnkTumblr])
 
 La mayoría de ventajas de Blogger (gratis, fácil de usar) aplican también para Tumblr pero hay diferencias. Tumblr no fue pensado como una plataforma exclusiva para bloguear sino para compartir imágenes, citas, links y textos cortos (micro blogs).
 
@@ -45,7 +45,7 @@ Ejemplos de blogs que usan Tumblr:
 
 Una gran ventaja de comenzar con Tumblr o Blogger es que si después de usarlos te das cuenta de que necesitas algo más configurable y robusto puedes trasladar todos tus posts a Wordpress.
 
-### Wordpress ([http://wordpress.org][lnkWordpress])
+#### Wordpress ([http://wordpress.org][lnkWordpress])
 
 Wordpress es una herramienta gratis y de código libre que sirve para dos propósitos no mutuamente excluyentes: bloguear y "manejo de contenido". Con Wordpress puede haber una confusión porque puede ser accedido por dos links: wordpress.com y wordpress.org . 
 
@@ -72,7 +72,7 @@ Ejemplos de blogs que usan Wordpress.
 * El Blog de Buffer App ([http://blog.bufferapp.com][lnkBuffer])
 
 
-### Ghost ([http://ghost.org][lnkGhost])
+#### Ghost ([http://ghost.org][lnkGhost])
 
 Para muchos, Wordpress, con todas sus características, se volvía demasiado complicado para alquien que solo quería bloguear. John O'Nolan era uno de ellos, por eso es que el año pasado fundó, via Kickstarter, la plataforma Ghost. Ghost es de código libre, simple y elegante.
 
@@ -88,7 +88,7 @@ Ejemplos de Blogs que usan Ghost.
 
 * Coding Horror de Jeff Atwood ([http://blog.codinghorror.com][lnkCodingHorror])
 
-### Jekyll ([http://jekyllrb.com/][lnkJekyll])
+#### Jekyll ([http://jekyllrb.com/][lnkJekyll])
 
 Jekyll es un software diseñado por Tom Preston-Werner de GitHub.com, es de código libre y está programado usando el lenguaje de programación Ruby.
 
@@ -106,7 +106,7 @@ Ejemplos de sitios que ocupan Jekyll
 Si te interesa una alternativa similar a Jekyll pero usando Python puedes ver [Pelican][lnkPelican].
 
 
-### Resumen
+#### Resumen
 
 Si lo que quieres es bloguear de forma casual y no te quieres complicar pagando ni instalando nada revisa [Tumblr][lnkTumblr] o [Blogger][lnk-blogger] (en ese orden). Una gran ventaja de empezar con uno de esos dos es que puedes migrar todos tus posts a otra opción más profesional y configurable como [Wordpress][lnkWordpress], pero asume que tendrás costos por alojar tu blog en un servidor (no menos de $3 o $4). [Ghost][lnkGhost] es una alternativa simple, elegante e ideal para bloguear, es de código libre pero ponerla a funcionar te costaría al menos $5 al mes. Ahora, si te quieres divertir construyendo tu blog además de escribir posts y sin tener que pagar por uso o alojamiento revisa [Jekyll][lnkJekyll] o [Pelican][lnkPelican].
 

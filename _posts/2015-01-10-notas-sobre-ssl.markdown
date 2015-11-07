@@ -20,7 +20,7 @@ El proceso es tan fácil que me da un poco de pena haberme tardado tanto tiempo 
 Este post se trata sobre dos cosas que no sabía y que encontré interesantes previo y post instalación de los certificados.
 
 
-### Indicación de Nombre del Servidor
+#### Indicación de Nombre del Servidor
 
 Es usual que para aplicar un certificado propio en un servicio de alojamiento sea requerido adquirir una dirección IP dedicada, esto se traduce a otro cobro mensual y afecta tanto a servicios de hosting compartido como a servidores virtuales privados. Esta IP dedicada es un requisito del protocolo y no es originado por la avaricia de la gente del web hosting.
 
@@ -37,7 +37,7 @@ El SNI debe ser soportado tanto por el navegador como por el servidor. En el cas
 Para crupzi y quoffee me decidí por esta alternativa que al menos me ahorrará $60 al año y si alguien usa XP con IE solo tengo el siguiente consejo: *"get a better browser or suck it!"*.
 
 
-### Contenido Mezclado
+#### Contenido Mezclado
 
 Como dije antes, instalar el certificado fue relativamente sencillo, pero eso no quiere decir que los websites estaban preparados. Cuando la gente del alojamiento me escribió diciéndome que los certificados habían sido instalados en el servidor abrí el navegador, digité https://www.quoffee.com y la página cargó. Me sentí bien, como si hubiera logrado algo importante, hasta que noté que muchos estilos no se habían aplicado y que en la barra de direcciones había un signo de advertencia: la página tenía contenido mezclado (mix content). Sh*t. A los navegadores no les gusta el ese contenido mezclado.
 

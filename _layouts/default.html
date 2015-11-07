@@ -10,18 +10,14 @@
         <link rel="stylesheet" href="/css/syntax.css">
 
         <!-- Custom CSS -->
-        <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
-        <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="/css/main.css">
-        <link rel="stylesheet" href="/css/skeleton/base.css">
-        <link rel="stylesheet" href="/css/skeleton/skeleton.css">
-        <link rel="stylesheet" href="/css/skeleton/layout.css">
+        <!-- <link rel="stylesheet" href="/css/main.css"> -->
+        <link rel="stylesheet" href="/css/skeleton-2/normalize.css">
+        <link rel="stylesheet" href="/css/skeleton-2/skeleton.css">
+        <link rel="stylesheet" href="/css/custom.css">
+        <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
         <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
         <link href='http://www.jdzarate.com/feed.xml' rel='alternate' type='application/rss+xml'>
         <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-        <script src="https://apis.google.com/js/plusone.js"></script>
     </head>
     <body>
 <!--     <div class="offset-by-two eleven columns">
@@ -32,37 +28,44 @@
         <div class="site-header">
             <div class="header" style="background:#263238;">
               <div class="row">
-                  <h1 class="title" style=""><a href="/">J.D. Zárate</a></h1>
-              </div>
-            </div>
-        </div>
-      </div>
-    </div>
-    <div class="" style="background:#eee;">
-      <div class="container">
-        <div class="site-subheader">
-            <div style="background:#eee;">
-              <div class="row">
-                    <ul class="navbar">
-                      <li><a href="/">Blog</a></li>
-                      <li><a href="/about/">Acerca De</a></li>
-                      <li><a href="/projects/">Proyectos</a></li>
-                      <li><a href="/writeups/">Rese&ntilde;as</a></li>
-                    </ul>
+                  <h1 class="blog-title" style=""><a href="/">jdzarate.com</a></h1>
+                  <h2 class="blog-subtitle">Jos&eacute; Daniel Z&aacute;rate: ocasional programador y escritor.</h2>
               </div>
             </div>
         </div>
       </div>
     </div>
     <div class="container">
-      <div class="thirteen columns">
-        <div class="site">
+      <div class="row">
+        <div class="nine columns">
           {{ content }}
+        </div>
+        <div class="three columns">
+          <nav class="blog-navigation">
+            <ul>
+              <li><a href="/archive">Archivo</a></li>
+              <li><a href="/about">Acerca de</a></li>
+              <li><a href="/projects">Proyectos</a></li>
+              <li><a href="http://www.jdzarate.com/feed.xml">RSS</a></li>
+              <li><a class="pushbullet-subscribe-widget" data-channel="jdzarate" data-widget="button" data-size="small"></a>
+<script type="text/javascript">(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src='https://widget.pushbullet.com/embed.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b);})();</script></li>
+            </ul>
+
+            <select>
+              <option value="">Navegaci&oacute;n</option>
+              <option value="/archive">Archivo</option>
+              <option value="/about">Acerca de</option>
+              <option value="/projects">Proyectos</option>
+            </select>
+          </nav>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="thirteen columns">
+        <div class="site">          
           <div class="footer">
               <div class="contact">
-                <p>
-                  J.D. Zárate
-                </p>
                 <div>
                 <a href="http://twitter.com/jdzaratem/" target="_blank" ><i class="icon-twitter-sign icon-2x"></i></a>
                   <a href="http://github.com/jdzarate/" target="_blank" style="margin-left:0.3em;"><i class="icon-github-sign icon-2x"></i></a>
@@ -72,28 +75,18 @@
               </div>
               <div class="subscribe">
               <p>
-                  Puedes suscribirte vía <a href="http://www.jdzarate.com/feed.xml">rss</a> o también puedes recibir notificaciones sobre nuevos posts en tu desktop, tablet o smartphone vía Pushbullet <br> <a class="pushbullet-subscribe-widget" data-channel="jdzarate" data-widget="button" data-size="small"></a>
+                  Puedes suscribirte vía <a href="http://www.jdzarate.com/feed.xml">rss</a> o también puedes recibir notificaciones sobre nuevos posts en tu desktop, tablet o smartphone vía Pushbullet <br><a class="pushbullet-subscribe-widget" data-channel="jdzarate" data-widget="button" data-size="small"></a>
 <script type="text/javascript">(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src='https://widget.pushbullet.com/embed.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b);})();</script>
                 </p>
               </div>
             </div>
           </div>
-          {% if page.path contains '_posts' %}
-          <aside>
-          <div id="google_comments" style="height:300px;"></div>
-          </aside>
-          {% endif %}
       </div>
     </div><!-- container -->
+    </body>
     <script type="text/javascript">
-      $( document ).ready(function() {
-        gapi.comments.render('google_comments', {
-          href: window.location,
-          width: $("aside").width() - 20,
-          first_party_property: 'BLOGGER',
-          view_type: 'FILTERED_POSTMOD'
-        });
+      $("nav.blog-navigation select").change(function() {
+        window.location = $(this).find("option:selected").val();
       });
     </script>
-    </body>
 </html>

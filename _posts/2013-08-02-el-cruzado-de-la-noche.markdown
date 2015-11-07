@@ -6,7 +6,8 @@ excerpt: La noche anterior hice algo que no pretendía hacer, no porque quería 
 categories:
 - blog
 ---
-![El Cruzado de la Noche]({{ site.url }}/assets/el-cruzado-de-la-noche.jpg)
+
+<img src="{{ site.url }}/assets/el-cruzado-de-la-noche.jpg" style="width:100%;">
 
 La noche anterior hice algo que no pretendía hacer, no porque quería hacerlo sino porque no lo había planeado. Estoy de vacaciones, terminé de leer un libro, no quería empezar otro, no quería programar así que tuve que ver una película (&iquest;2+2=5 verdad?). Mi catálogo de películas no es muy amplio, creo que a lo mucho tengo 10, todavía no tengo suscripción en Netflix y tampoco estaba en ánimos de piratear otra película más, se me antojó ver The Amazing Spiderman por segunda vez.
 

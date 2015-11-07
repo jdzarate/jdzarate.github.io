@@ -20,10 +20,12 @@ Pero quería colocar ejemplos, y por qué no reviews del mismo Reflektor.
 
 ##### Drowned In Sound
 ![Drowned]({{ site.url }}/assets/reflekciones/drowned.png)
+
 4/10 porque las canciones son muy largas y no lo justifican. Hey, bajo esa lógica podría decir que “Hey Jude” apesta porque incluye casi 4 minutos de tipos cantando “Hey Jude, Hey Jude” y sería lo mismo o peor con “I Want You (She’s so Heavy)”. Es más, ¿por qué no quitamos los "coros" de las canciones de una vez por todas? Parece que son redundantes y nos quitan más de nuestro preciado tiempo: di algo una vez, ¿por qué decirlo de nuevo? (Psycho Killer, Qu'est-ce que c'est).
 
 ##### Pitchfork Magazine
 ![Pitchfork]({{ site.url }}/assets/reflekciones/pitchfork.png)
+
 9.2/10 porque sabe escribir combinaciones de palabras que tienen sentido para nadie como "glam-rock earthquake" y notó influencias de discos importantes como "Remain in Light" o "The White Album". Al parecer eso le da la potestad para colocar una nota, no de 9 sino de 9.2. ¡9.2! ¿por qué no 9.1 ó 9.3? Quizá, en su genialidad, significa que es el promedio de las canciones utilizando la fórmula que propone [adamannapolis en el foro de rateyourmusic.com][link-to-rateyourmusic]. 
 
 Código en Python (asumiendo que no utilizan una media ponderada):

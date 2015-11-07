@@ -11,7 +11,8 @@ categories:
 
 Estúpidos estereotipos al lado... a principios del mes pasado recibí un correo con la invitación a participar en un reto que requería formar un grupo de al menos 15 compañeros de trabajo para completar una serie de caminatas virtuales durante 8 semanas. Me inscribí, compré mi podómetro, un par de zapatos y esta semana completé mi primera caminata virtual: ir desde la Sierra de Mendanha hasta Río de Janeiro, 45,500 pasos a la semana, 6,500 pasos al día.
 
-![enter image description here](http://i.imgur.com/ypKBiIL.png)
+
+<img src="http://i.imgur.com/ypKBiIL.png" alt="" width="100%;">
 
 Recibí el podómetro el mismo día del inicio de la competencia así que empecé con desventaja. El primer día di un poco más de 1,600 pasos. Creí que ponerme al día no sería tan complicado, muchos de mis compañeros registran casi 15,000 pasos diarios. ¿qué tan difícil podría ser? tl;dr; es difícil.
 

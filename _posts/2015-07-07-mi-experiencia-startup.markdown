@@ -18,7 +18,7 @@ Así que eventualmente renuncié a mi trabajo a tiempo completo, empecé a traba
 
 ¿Qué demonios pasó?
 
-### Al parecer siempre hay una chica
+#### Al parecer siempre hay una chica
 
 [Oscar Arévalo](https://www.twitter.com/oscaroarevalo) lo escribió en el blog de introducción de [crupzi.com](http://www.crupzi.com): "todo comenzó por una chica". En mi caso se trataba de una chica a la que realmente quería, una chica por la que estaba dispuesto a tirar por la borda amistades, por la que dejaba de hacer cualquier cosa por estar con ella unos minutos, una chica que un día me trató como un ciudadano de segunda o tercera clase y por fin caí en la cuenta de que no era la primera vez que lo hacía, me hizo sentir que no era y nunca iba a ser suficientemente bueno.
 
@@ -26,7 +26,7 @@ Después de unos intercambios pasivo agresivos y otros más directos decidí que
 
 Y así me convertí en un *cliché que camina*.
 
-### Despecho + Habilidades para programar = *startup*
+#### Despecho + Habilidades para programar = *startup*
 
 Es tan *fácil* tener un *startup* en Internet. Solo necesitas habilidades de programación, unos cinco dólares mensuales para pagar servidores, tiempo, una motivación (o despecho), ver la película de Facebook y así llegas a pensar que tú podrías ser el siguiente multimillonario. A veces somos tan idiotas...
 
@@ -38,7 +38,7 @@ Me salí de eso y le escribí a Oscar nuevamente.
 
 Esta vez sí comenzamos a trabajar en una idea ([Qwirkz](http://www.qwirkz.com)) que meses después abandonamos por otra (Crupzi), se suponía que se trataba de un trabajo de dos días pero se convirtió en un proyecto de dos años. Sí que sabíamos estimar tiempos.
 
-### En un camino hacia ningún lado
+#### En un camino hacia ningún lado
 
 Estaría mintiendo si digo que me metí en este rollo solo por despecho. Cuando trabajas por dos años en un proyecto más vale que tengas otra razón para hacerlo. De hecho, lo que empezaba a motivarme era la posibilidad de independencia y manejar mi tiempo como se me diera la gana, trabajar en las cosas que me importan y no en las que me imponen. Ya en la marcha cualquier factor externo no importa. Pasas tan ocupado que no tienes tiempo para pensar otra cosa más que el proyecto, mucho menos estar cultivando resentimientos. 
 
@@ -54,7 +54,7 @@ Cuatro *startups* después me encontré cansado. Cuatro *startups* después no t
 
 Problemas ocurren cuando tu vida gira entorno a algo y ese algo ya no empieza a llenar tus expectativas pero al menos esto ya había terminado para mí, era hora de seguir adelante, solo fue una fase, una especie de mal corte de pelo del que me reiría en unos años.
 
-### El idiota aficionado a la Fantasía
+#### El idiota aficionado a la Fantasía
 
 > Como las personas que creen que serán más felices si se van a vivir a otro lugar aprenden que no funciona así. A donde quiera que vayas te llevas a tí mismo contigo. - Neil Gaiman
 

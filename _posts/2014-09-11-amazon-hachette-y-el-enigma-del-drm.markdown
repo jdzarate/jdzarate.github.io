@@ -15,7 +15,7 @@ Está claro que [Hachette no lo ve así][lnk-hachetteCEO]. Ellos quieren control
 
 Supongo que ambos tienen sus razones pero el fondo siempre es su propio interés. Nunca se ha tratado de beneficiar a los lectores.
 
-### Los beneficios de ser la "tienda de todo".
+#### Los beneficios de ser la "tienda de todo".
 
 Si Amazon tiene ventaja en esta pelea es porque la ha recibido de Hachette y de otras publicadoras. En la situación actual Amazon no es solo la tienda donde los libros esperan ser elegidos y comprados; no, Amazon es el distribuidor, es el canal. Amazon controla el 60% del mercado de ebooks y tiene un ecosistema que te hace muy difícil escapar, un ecosistema en el que el DRM juega un papel muy importante.
 
@@ -28,7 +28,7 @@ En abril de 2012 Tor Books anunció que todos sus libros se venderían sin DRM (
 Amazon no es solo la tienda y distribuidora, es el lugar de descubrimiento. Si un libro existe, tiene que estar en Amazon y punto. Allí es el lugar donde buscas reviews y recomendaciones que no dependen de la publicadora. Que un libro esté en Amazon le conviene a ellos mismos y a todos los demás, pero las publicadoras no deberían darle más poder del necesario.
 
 
-### Las ventajas de ser "el niño que vivió"
+#### Las ventajas de ser "el niño que vivió"
 
 Cuando Amazon no tiene el poder superior las cosas pueden funcionar de forma diferente. 
 
