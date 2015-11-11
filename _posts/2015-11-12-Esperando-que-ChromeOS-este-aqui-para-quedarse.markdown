@@ -28,5 +28,7 @@ J.D.
 
 **Notas**
 * [The Wall Street Journal: Alphabet’s Google to Fold Chrome Operating System Into Android](http://www.wsj.com/article_email/alphabets-google-to-fold-chrome-operating-system-into-android-1446151134-lMyQjAxMTA1NzIxOTAyMzk4Wj)
+
 * [Blogpost de Google: Chrome OS is here to stay](http://chrome.blogspot.com/2015/11/chrome-os-is-here-to-stay.html)
+
 * [Pixel C de Google](https://pixel.google.com/)
