@@ -25,6 +25,8 @@ Las chromebooks no son perfectas. Todavía no me decido a comprar una todavía y
 Pero como dije antes, solo estoy especulando, pero así como están las cosas me parecería una terrible idea tirar a la basura el concepto de ChromeOS que busca permitir hacer *pocas* cosas bien en lugar de querer abarcar mucho y tener éxito en poco, al menos en el contexto en que funciona este sistema operativo.
 
 J.D.
+<br>
+<br>
 
 **Notas**
 
