@@ -6,7 +6,6 @@ excerpt: Cuando anunciaron la versión de desarrollo de Android 6 o M (por Marsh
 categories:
 - blog
 ---
-
 Cuando anunciaron la versión de desarrollo de Android 6 o M (por Marshmallow) hubo un *feature* que me llamó la atención: Android sería capaz de reconocer una memoria SD como almacenamiento interno.
 
 Eso era algo bueno, muy bueno de hecho, porque podría salirme con la mía y no caer en la estafa que pretende todo fabricante de dispositivos electrónicos: cobrar $50 por cada aumento de capacidad de almacenamiento. De verdad creí que podía comprar cualquier teléfono de 16 GB, conseguir una microSD de 32 GB por unos 12 dólares más y lograría paz mental sabiendo que no recibiría una notificación diciéndome que tengo poco espacio de almacenamiento, al menos por un buen rato.
