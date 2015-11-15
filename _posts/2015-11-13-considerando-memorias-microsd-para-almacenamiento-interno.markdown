@@ -16,13 +16,13 @@ OK Google... ¿cuál es la velocidad de lectura/escritura promedio de un teléfo
 
 La respuesta depende un varias cosas, del SoC, la calidad de la memoria, si está encriptada o no, si es lectura/escritura secuencial o aleatoria, etc. Por diversión instalé una aplicación para que hiciera un *benchmark* en mi viejo, cansado y encriptado Nexus 4. Los resultados (cortesía de [AndroBench](https://play.google.com/store/apps/details?id=com.andromeda.androbench2&hl=en)) fueron algo decepcionantes.
 
-<img src="http://i.imgur.com/ftJdI1W.png">
+<img src="http://i.imgur.com/ftJdI1W.png" width="100%;">
 
 45 MB/s de lectura secuencial, 6.5 MB/s de escritura. 9.5 MB/s de lectura aleatoria y 1 MB/s de escritura. Está un poco patético en mi opinión, más aún cuando los comparo con el benchmark de los teléfonos Nexus de este año publicado por [indiatoday](http://indiatoday.intoday.in/technology/story/nexus-5x-vs-nexus-6p-checking-the-performance-difference/1/505556.html).
 
-<img src="http://i.imgur.com/w10Gaqv.jpg">
+<img src="http://i.imgur.com/w10Gaqv.jpg" width="100%;">
 
-Es irrelevante saber cuál es cuál pero creo que el de la derecha es el Nexus 5x y el de la izquierda el Nexus 6p.
+Es irrelevante saber cuál es cuál pero creo que el de la izquierda es el Nexus 5x y el de la derecha el Nexus 6p.
 
 OK. Más de 250 MB/s de lectura secuencial, más de 76 MB/s de escritura, más de 20 MB/s de lectura aleatoria y 11.5 MB/s de escritura. OK, son teléfonos de gama alta pero igual, supongo que podríamos esperar algo un poco más bajo con uno de gama media. O en el mejor de los casos, no me equivoco al creer que en un teléfono no encriptado, fácilmente la velocidad de lectura secuencia debería ser superior a los 100 MB/s y la de escritura más de 50 MB/s.
 
@@ -36,7 +36,7 @@ En ningún caso he visto velocidades de lectura/escritura aleatoria superiores a
 
 ¿Sería suficiente para que funcione como memoria interna? Quizá con un formato de sistema de archivos adecuado, no sé. Los números dicen algo pero al final lo que importa es cómo funciona en la práctica. Puede que en números funcione, pues, mi Nexus 4 era más o menos tolerable.
 
-Igual me quedan otras inquietudes, dado que es un nueva característica de Google y no hay mucha documentación real sobre cómo funciona porque ningún Nexus tiene adaptador para microSD. ¿Sería prudente confiar que el SO operativo trabajará igual? ¿las aplicaciones trabajarán adecuadamente? ¿qué pasaría si la microSD deja de funcionar? Sospecho que debe haber algún *bug* merodiando.
+Igual me quedan otras inquietudes, dado que es un nueva característica de Google y no hay mucha documentación real sobre cómo funciona porque ningún Nexus tiene adaptador para microSD. ¿Sería prudente confiar que el SO operativo trabajará igual? ¿las aplicaciones trabajarán adecuadamente? ¿qué pasaría si la microSD deja de funcionar? También no puedo dejar de sospechar que hay algún *bug* de implementación.
 
 Todavía no tengo ni la más mínima idea de cómo responder esas preguntas pero leyendo Reddit me enteré de algunas particularidades bastante interesantes de este *feature* y la verdad es que no quedé muy convencido de que sería una buena opción poner todos mis malvaviscos en esta canasta.
 
