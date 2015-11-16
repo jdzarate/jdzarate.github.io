@@ -31,6 +31,14 @@ ul{
 	list-style: none;
 }
 
+.post ul{
+	list-style: disc;
+}
+
+.post a{
+	text-decoration: underline;
+}
+
 p{
 	font-size: 1.6rem;
 }
@@ -39,7 +47,7 @@ p{
 	margin-top: 1em;
 }
 
-.firstpost a{
+.firstpost h3 a{
 	text-decoration: none;
 }
 
