@@ -16,7 +16,7 @@ Al final lo único que publiqué son unos cuantos *posts* que escribí por accid
 
 Mi punto es que quiero escribir con más frecuencia así que este blog será como una bitácora en la que voy a escribir cualquier tontería, en su mayor parte serán temas sobre tecnología. Todos los días tengo dilemas y conflictos con la tecnología, este podría ser un espacio para plasmarlos, hacer catarsis o lo que sea. Quizá no escribiré a diario pero espero hacerlo al menos una vez a la semana.
 
-Escribiré para mí asumiendo que no tengo audiencia, lo cual completamente cierto. Lo que quiero es escupir palabras sin importar si al final le dan un valor a alguien o no aunque tengo el presentimiento de que el resultado será más interesante de lo que creo.
+Escribiré para mí asumiendo que no tengo audiencia, lo cual es completamente cierto. Lo que quiero es escupir palabras sin importar si al final le dan un valor a alguien o no aunque tengo el presentimiento de que el resultado será más interesante de lo que creo.
 
 Todavía me quedan cosas por definir: no sé qué hacer con los posts anteriores, de momento los he dejado allí, al fin y al cabo son parte de lo que fue el blog. Tampoco he decidido si vale la pena implementar una sección para comentarios. De momento no habrán.
 

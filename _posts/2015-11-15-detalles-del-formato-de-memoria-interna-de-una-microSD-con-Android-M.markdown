@@ -9,7 +9,7 @@ categories:
 
 En mi [post anterior](http://www.jdzarate.com/blog/2015/11/13/considerando-memorias-microsd-para-almacenamiento-interno.html) escribí sobre mis problemas para decidir si sería una buena idea utilizar una micro SD para expandir el almacenamiento interno de un dispositivo.
 
-El feature de Android M me parece genial pero a corto plazo, con las bajas velocidades de lectura/escritura de las microSD del mercano y lo poco probada que está esta característica no me parecía buena idea depender de esta solución, mucho menos si pensaba invertir más de $400 dólares en un teléfono de 16GB que esperaba conservar al menos 2 años.
+El feature de Android M me parece genial pero a corto plazo, con las bajas velocidades de lectura/escritura de las microSD del mercado y lo poco probada que está esta característica no me parecía buena idea depender de esta solución, mucho menos si pensaba invertir más de $400 dólares en un teléfono de 16GB que esperaba conservar al menos 2 años.
  
 Hace tres semanas leí un *post* en reddit escrito por /u/stereomatch. Este es el enlace: [Guidelines for Marshmallow users - formatting options for external SD cards (Portable vs. Internal modes)](https://www.reddit.com/r/Android/comments/3oz7eu/guidelines_for_marshmallow_users_formatting/). Está muy completo y se le recomiendo a cualquiera que esté interesado en cómo funciona este nuevo formato para las tarjetas SD de Android M.
 
