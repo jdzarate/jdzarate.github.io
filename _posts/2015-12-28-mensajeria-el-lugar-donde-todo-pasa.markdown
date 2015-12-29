@@ -18,7 +18,7 @@ Las supuestas tres compañías más importantes tienen sus propios servicios: Fa
 
 El año pasado Snapchat implementó la opción de chat. En agosto Twitter eliminó la restricción de 140 caracteres en sus mensajes directos y el mes pasado Tumblr lanzó su servicio de mensajería, como si realmente necesitaramos otro más.
 
-Algunos tienen un enfoque diferente, un diferenciador, hay apps me permiten <span style="text-decoration:line-through;">bailar</span> chatear conmigo mismo o con bots.  Mis mejores conversaciones las he tenido conmigo mismo (quizá son las únicas en las que participo activamente y no solo escucho). Y los bots, bueno, son unos fieles lacayos.
+Algunos tienen un enfoque diferente, un diferenciador, hay apps que me permiten <span style="text-decoration:line-through;">bailar</span> chatear conmigo mismo o con bots.  Mis mejores conversaciones las he tenido conmigo mismo (quizá son las únicas en las que participo activamente y no solo escucho). Y los bots, bueno, son unos fieles lacayos.
 
 En junio, Pushbullet renovó por completo la interfaz visual de su aplicación. Estoy hablando de una herramienta para transferir archivos y links entre mi computadora y mi teléfono que se convirtió en un chat para mí y mis dispositivos (y mis amigos, supongo). [Solo por referencia, clic aquí para una imagen que muestra la evolución del app](https://blog.pushbullet.com/images/pushbullet_evolution/android.jpg).
 
