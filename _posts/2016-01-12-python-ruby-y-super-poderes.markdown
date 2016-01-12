@@ -27,7 +27,7 @@ Lo abrí, empecé a leer y de repente ya estaba en la página 14 aprendiendo sob
 
 Quiero más de eso.
 
-Así que después de 14 páginas me detuve y me pregunte, *¿En serio te vas a decidir por pogramar con Ruby?*.
+Así que después de 14 páginas me detuve y me pregunte, *¿En serio te vas a decidir por programar con Ruby?*.
 
 No es que haya algo malo en eso. Es solo que mi mente logró hacer espacio para otro conflicto más. ¿No haría con Ruby lo mismo que hago en Python? ¿No me convendría más dominar el último? siendo Python un lenguaje oficial usado en Google y así.
 
