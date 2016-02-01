@@ -7,7 +7,7 @@ categories:
 - blog
 ---
 
-No quiero sonar dramático ni nada pero puede que no publique nada más por un tiempo. Tengo mis razones pero no quiero entrar en mucho detalle. Ya no me hace sentido publicar algo a menos que de verdad tenga contenido que valga la pena compartir y en retrospectiva eso es algo no he logrado.
+No quiero sonar dramático ni nada pero puede que no publique nada más por un tiempo. Tengo mis razones pero no quiero entrar en mucho detalle. Ya no me hace sentido publicar algo a menos que de verdad tenga contenido que valga la pena compartir y en retrospectiva eso es algo que no he logrado.
 
 Este es el cierre, supongo, o un hasta luego. No sé.
 
