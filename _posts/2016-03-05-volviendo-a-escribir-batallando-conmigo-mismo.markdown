@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Volviendo a escribir y batallando conmigo mismo."
-date:   2016-03-05 00:00:00 -0600
-excerpt: Hace poco más de un mes escribí que no pensaba publicar algo en un buen tiempo, que era el cierre, que no había logrado lo que quería con mi blog porque todo lo que había en este era irrelevante. Eso ha cambiado.
+date:   2016-03-05 03:00:00 -0600
+excerpt: Hace poco más de un mes escribí que no pensaba publicar algo en un buen tiempo, que era el cierre, que no había logrado lo que quería con mi blog porque todo lo que había en este era irrelevante. Algo ha cambiado.
 categories:
 - blog
 ---
