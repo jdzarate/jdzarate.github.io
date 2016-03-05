@@ -35,7 +35,7 @@ El siguiente día me levanté con dos resoluciones, uno, pedir disculpas por ser
 
 Y eso, estoy curado, tan fácil como 1, 2 y 3.
 
-Ya quisiera. No, creo que lo que me pasó fue que estaba adormecido, nahuseabundo y me fui a dar directo con una pared al fondo de un callejón sin salida, mi sentido arácnido se reestableció a consecuencia del golpe y me di cuenta que en realidad necesitaba balancearme en la dirección opuesta, hacia el otro lado de la ciudad...
+Ya quisiera. No, creo que lo que me pasó fue que estaba adormecido y me fui a dar directo con una pared al fondo de un callejón sin salida, mi sentido arácnido se reestableció a consecuencia del golpe y me di cuenta que en realidad necesitaba balancearme en la dirección opuesta, hacia el otro lado de la ciudad...
 
 Y ahora he vuelto porque quería redactar esto y leerlo cada vez que me desvíe. Planeo seguir escribiendo, aunque de otros temas y no de esta forma. Tal vez no sea la persona más elocuente con el vocabulario más abundante (y ni hablar de mis pseudo-metáforas), pero intentaré ser honesto y directo, no quiero probarle nada a nadie, solo quiero mejorar en mi vida personal y en las cosas que hago.
 
