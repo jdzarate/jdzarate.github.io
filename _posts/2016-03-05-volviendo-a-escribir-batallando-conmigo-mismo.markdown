@@ -23,7 +23,7 @@ Rayos, de verdad tengo suerte de tener al menos un amigo así, que no pierde la 
 
 Esa noche pensé mucho en lo que dije y caí en cuenta de que pocas veces he estado tan avergonzado de mí, tenía que empezar a valorar lo que tengo y tratar de influir en los demás pero esta vez de forma positiva. 
 
-Hace poco Wil Wheaton escribío “You’re not broken, and you’re not weak. Depression lies because Depression is a dick”. Esa frase resonó en mí.
+Hace poco Wil Wheaton escribió “You’re not broken, and you’re not weak. Depression lies because Depression is a dick”. Esa frase resonó en mí.
 
 Depresión miente, te dice que no eres suficientemente bueno o buena y que nunca vas a salir del hoyo, que estás condenado a ver de lejos una vida feliz que nunca llegará. Depresión miente y no solo a tí sino a través de tí.
 
