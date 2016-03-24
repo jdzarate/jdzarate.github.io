@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tentado (por RoR y no RnB)"
-date:   2016-03-07 23:30:00 -0600
+date:   2016-03-08 02:00:00 -0600
 excerpt: La tentación por Rails quedó al descubierto, cuando Python no está pierdo momentum (o algo).
 categories:
 - blog
