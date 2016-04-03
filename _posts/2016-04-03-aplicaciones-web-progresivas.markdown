@@ -68,6 +68,7 @@ No todos harán el cambio de iOS a Android ni deberían hacerlo porque cada plat
 
 Igual es alentador y una buena iniciativa de Google/Android. Alguien tiene que empezar, si no, nadie podría seguirlos.
 
+J.D.
 
 [lnk-joreteg]:https://joreteg.com/blog/why-i-switched-to-android#so-why-android-isnt-it-just-more-of-the-same
 [lnk-jdzarate]: http://www.jdzarate.com/blog/2015/01/29/mi-hipocresia-it-webapps.html
