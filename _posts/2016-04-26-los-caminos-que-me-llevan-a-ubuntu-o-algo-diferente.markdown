@@ -2,7 +2,7 @@
 layout: post
 title:  "Los caminos que me llevan a Ubuntu o a algo diferente"
 date:   2016-04-26 22:20:00 -0600
-excerpt:
+excerpt: No sé si es frustrante o reconfortante que los caminos que tomo en el mundo de Linux siempre me llevan a Ubuntu, el bueno y confiable Plan B.
 categories:
 - blog
 ---
