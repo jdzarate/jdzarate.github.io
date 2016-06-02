@@ -6,13 +6,39 @@ excerpt: En el que escribo sobre herramientas que podrían ser útiles para algu
 categories:
 - blog
 ---
+
+*Actualizado el 2 de junio de 2016*
+
 Empezar a bloguear debería ser fácil. Muchas personas que quieren bloguear a veces no saben cómo empezar o desconocen con qué tecnología hacerlo. Incluso si tienen alguna idea talvez no saben que la puesta en funcionamiento puede ser complicada. Y me parece que no tendrían que recurrir a su amigo medio "geek", solo porque probablemente no tiene nada mejor que hacer un sábado por la tarde, al menos que valga la pena.
 
 La elección de la tecnología depende mucho del tipo de uso que tendrá el blog. No sería práctico listar todas las posibilidades así que intentaré escribir sobre las que creo más importantes pero si sientes que el post es extenso o si te dan alergias por leer más de la cuenta puede ver el resumen al final.
 
+
+#### tl;dr
+
+Si lo que quieres es escribir sin complicaciones ni instalaciones revisa [Medium.com](http://medium.com). Si buscas algo más configurable o algo que te genere valor comercial revisa [Wordpress][lnkWordpress] pero asume que tendrás costos por alojar tu blog en un servidor (no menos de $3 o $4). [Ghost][lnkGhost] es una alternativa simple, elegante e ideal para bloguear, es de código libre pero ponerla a funcionar te costaría al menos $5 al mes. Ahora, si te quieres divertir construyendo tu blog además de escribir posts y sin tener que pagar por uso o alojamiento revisa [Jekyll][lnkJekyll] o [Pelican][lnkPelican].
+
+
+
+#### Medium ([http://medium.com](http://medium.com)
+
+Mi post original del 2014 no incluía medium.com pero ya que lo actualizo creo que vale la pena incluir este servicio. 
+
+Medium es muy bueno, es gratis y fácil de usar, además ofrece estadísticas como la cantidad de visitas y lecturas semanales de tus posts. Medium es incríblemente popular, tanto que hasta Barack Obama lo ha utilizado. Algo importante de mencionar es que te crea audiciencia sin que hagas esfuerzo ya que la gente de Medium muy amablemente comparte tus escritos en redes sociales.
+
+Ejemplo. En septiembre de 2014 escribí el post ["Un año sin Facebook"](https://medium.com/@jdzaratem/un-a%C3%B1o-sin-facebook-72db5c4dc79f#.sdubikqs7) en Medium. Yo no hice nada para compartirlo, si acaso lo compartí en Twitter (ni siquiera tengo 100 seguidores). Ese post fue leído por casi 500 personas y 32 personas comenzaron a seguirme en Medium. Medium me generó una audiencia si que yo moviera un dedo para promocionar mi escrito. Dudo muchísimo que este blog haya sido leído por tantos.
+
+Ahora, ¿cuál es la "desventaja"? Tú y Medium comparten los derechos de los escritos. Ellos pueden usar tus posts para lo que quieran, pueden generar dinero con ellos y no tienen por qué darte nada a cambio. Otra desventaja podría ser la falta de personalización: todos los blogs se ven iguales. Para mí no es un problema pero puede que para otros sí.
+
+Ejemplo de blog en Medium:
+
+* El blog de Basecamp: Signal v. Noise [https://m.signalvnoise.com/](https://m.signalvnoise.com/)
+
+
+
 #### Blogger ([http://blogger.com][lnk-blogger])
 
-Probablemente Blogger sea la opción más sencilla para comenzar. Es gratis y solamente necesitas tener experiencia navegando en Internet. 
+Blogger es gratis y sin complicaciones.
 
 En Blogger tienes que digitar y dar estilo a tus posts directamente desde su plataforma. Estuve revisándola y me parece sencilla, casi como trabajar un documento en "Word" o en "Google Drive".
 
@@ -22,10 +48,9 @@ Tampoco es tan difícil como podrías creer. En la mayor parte de ocasiones es s
 
 Creo que Blogger es bastante adecuado para usuarios que usan su blog por motivos personales, que solo quieren escribir, están conformes con los temas visuales que ofrece la plataforma y no quieren saber nada de ser servidores o alojamiento Web. Tiene sus inconvenientes, sí, pero es gratis.
 
-Ejemplos de blogs que usan Blogger:
+Ejemplo de blogs que usan Blogger:
 
 * El blog de Google ([http://googleblog.blogspot.com/][lnk-blogGoogle])
-* El blog de SalixOS ([http://salixos.blogspot.com/][lnk-blogSalix])
 
 
 #### Tumblr ([http://tumblr.com][lnkTumblr])
@@ -38,10 +63,9 @@ Hay más temas visuales para Tumblr que para Blogger pero tampoco tiene "plugins
 
 A modo personal, entre Blogger y Tumblr me inclinaría por Tumblr a menos que ese pequeño espacio para trabajar el post sea realmente un inconveniente.
 
-Ejemplos de blogs que usan Tumblr:
+Ejemplo de blogs que usan Tumblr:
 
-* Arse2Mouse de Tim Clark ([http://www.arse2mouse.com/][lnkArse2Blog])
-* Blog de Jerry Shen ([http://bignoggins.me/][lnkBigNo])
+* El blog de Instagram ([http://blog.instagram.com/](http://blog.instagram.com/))
 
 Una gran ventaja de comenzar con Tumblr o Blogger es que si después de usarlos te das cuenta de que necesitas algo más configurable y robusto puedes trasladar todos tus posts a Wordpress.
 
@@ -59,16 +83,15 @@ La plataforma tiene la ventaja de más temas visuales y sí tiene "plugins" para
 
 Por Wordpress.org me refiero al código fuente de Wordpress. No hay una plataforma específica así como Blogger o Tumblr. El código hay que descargarlo e instalarlo en un servidor. 
 
-[Muchas empresas que ofrecen alojamiento para Wordpress cuentan con "Instaladores de 1 Click"][lnkWPHosting]. Esto hace sencilla la instalación porque solo tienes que completar unos cuentos formularios en los que especificas el título del blog, el nombre de usuario, el nombre de la base de datos y luego ellos hacen todo el trabajo. Pero el alojamiento no es gratis, mantener el blog te costaría no menos de $3 o $4 por mes.
+Muchas empresas que ofrecen alojamiento para Wordpress cuentan con "Instaladores de 1 Click". Esto hace sencilla la instalación porque solo tienes que completar unos cuentos formularios en los que especificas el título del blog, el nombre de usuario, el nombre de la base de datos y luego ellos hacen todo el trabajo. Pero el alojamiento no es gratis, mantener el blog te costaría no menos de $3 o $4 por mes. Elegir la mejor opción para alojar el blog es complicado, puedes chequear los [servicios que ofrece wordpress.org][lnkWPHosting] o también puedes consultar [hostadvice.com][lnkHostadvice], hostadvice procura ser más honesto y crítico en cuanto a tus opciones, pero la decisión depende de tí.
 
-Cuando está listo, cuentas con todas las opciones de Wordpress: manejo de diferentes autores, instalación de "plugins", instalación de temas visuales, modificación de temas visuales, creación de páginas adicionales y más; Wordpress más que una herramienta para crear blogs, es una herramienta para crear sitios Web.
+Cuando está listo y alojado cuentas con todas las opciones de Wordpress: manejo de diferentes autores, instalación de "plugins", instalación de temas visuales, modificación de temas visuales, creación de páginas adicionales y más; Wordpress más que una herramienta para crear blogs, es una herramienta para crear sitios Web.
 
 Yo recomendaría Wordpress solo para quienes usan su blog de forma profesional o si se trata de un blog empresarial. De lo contrario, si es para bloguear de forma casual, no creo que le saques provecho a todas las funciones, son más las complicaciones innecesarias que conlleva buscar y pagar por alojamiento Web.
 
 Ejemplos de blogs que usan Wordpress.
 
 * El Blog de Oscar O. Arévalo ([http://www.oscaroarevalo.com/][lnkOOA])
-* El Blog de Barney Stinson ([http://www.barneystinsonblog.com/][lnkBarney])
 * El Blog de Buffer App ([http://blog.bufferapp.com][lnkBuffer])
 
 
@@ -96,7 +119,7 @@ El objetivo de Jekyll es generar sitios Web estáticos y blogs a partir de archi
 
 El problema es que si no tienes conocimientos básicos de desarrollo Web ponerlo a funcionar puede ser complicado, por eso lo recomiendo solo para quien sepa algo de programación Web, que tenga ánimos de aprender o que tenga a algún amigo desocupado que les pueda ayudar a configurarlo. Pero vale la pena porque una vez configurado es increíblemente sencillo de utilizar y ¡es gratis! 
 
-Usar Jekyll es como un proyecto divertido en el que tú construyes tu blog.
+Usar Jekyll es como un proyecto divertido en el que tú construyes tu blog desde la base.
 
 Ejemplos de sitios que ocupan Jekyll
 
@@ -105,10 +128,7 @@ Ejemplos de sitios que ocupan Jekyll
 
 Si te interesa una alternativa similar a Jekyll pero usando Python puedes ver [Pelican][lnkPelican].
 
-
-#### Resumen
-
-Si lo que quieres es bloguear de forma casual y no te quieres complicar pagando ni instalando nada revisa [Tumblr][lnkTumblr] o [Blogger][lnk-blogger] (en ese orden). Una gran ventaja de empezar con uno de esos dos es que puedes migrar todos tus posts a otra opción más profesional y configurable como [Wordpress][lnkWordpress], pero asume que tendrás costos por alojar tu blog en un servidor (no menos de $3 o $4). [Ghost][lnkGhost] es una alternativa simple, elegante e ideal para bloguear, es de código libre pero ponerla a funcionar te costaría al menos $5 al mes. Ahora, si te quieres divertir construyendo tu blog además de escribir posts y sin tener que pagar por uso o alojamiento revisa [Jekyll][lnkJekyll] o [Pelican][lnkPelican].
+J.D.
 
 [lnk-blogger]:http://blogger.com
 [lnk-blogGoogle]:http://googleblog.blogspot.com/
@@ -128,3 +148,4 @@ Si lo que quieres es bloguear de forma casual y no te quieres complicar pagando 
 [lnkPelican]:http://blog.getpelican.com/
 [lnkWPHosting]:http://wordpress.org/hosting/
 [lnkMarkdown]:http://daringfireball.net/projects/markdown/
+[lnkHostadvice]:https://es.hostadvice.com/hosting-companies/wordpress/ 
