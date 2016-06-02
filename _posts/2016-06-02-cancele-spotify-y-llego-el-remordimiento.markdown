@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cancelé mi suscripción a Spotify y llegó el remordmiento"
+title: "Cancelé mi suscripción a Spotify y llegó el remordimiento"
 date:   2016-06-02 16:30:00
 excerpt: De verdad creí que me sería posible vivir sin una suscripción de música. Hace un par de semanas estaba decidido a cancelar mi suscripción de Spotify y de hecho lo hice. 
 categories:
