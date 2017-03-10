@@ -41,7 +41,7 @@ Era difícil decidir. No estaban fuera de prespuesto pero tampoco me emocionaban
 
 >  Resulta que la chica perfecta fue demasiado difícil de encontrar así que tuve que hacerla, ¿pero podré hacerla mía? - Live, una canción de Paul and Storm.
 
-Idea loca: ¿qué tal si armo una computadora *Desktop*? Entre más lo pensaba más me gustaba. Nunca había armado una PC y el experimiento sería divertidísimo. Estaba entusiasmado, de verdad. 
+Idea loca: ¿qué tal si armo una computadora *Desktop*? Entre más lo pensaba más me gustaba. Nunca había armado una PC y el experimento sería divertidísimo. Estaba entusiasmado, de verdad. 
 
 Un sábado me desperté a las 6:00am y lo único que se me ocurrió fue abrir una hoja de Google Sheets, buscar partes y hacer números. Podía comenzar con un procesador barato y si necesitaba más poder el *upgrade* no sería tan difícil ni tan caro. Ese día terminé con un estimado de 600 dólares.
 
