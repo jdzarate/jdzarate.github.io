@@ -101,3 +101,8 @@ blockquote {
 		display: inline;
 	}
 }
+
+img + em{
+	font-size: 0.9em;
+	color: #78909C;
+}
