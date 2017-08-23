@@ -51,5 +51,5 @@ Y será divertido, estas últimas dos semanas he tenido prueba de eso.
 
 J.D.
 
-[lnk-to-post]:http://www.jdzarate.com/blog/2016/01/12/python-ruby-y-super-poderes.html
+[lnk-to-post]:http://www.jdzarate.com/blog/2016/01/11/python-ruby-y-super-poderes.html
 [dhh]:https://www.twitter.com/dhh
