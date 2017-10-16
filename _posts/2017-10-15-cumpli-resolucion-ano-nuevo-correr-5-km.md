@@ -20,7 +20,7 @@ Los corrí con algo de pena. Endomondo sugería que debía completar la carrera 
 <img src="https://i.imgur.com/PUb9pK6.png" style="width:100%;">
 *Evidentemente no soy veloz y no sé cumplir con las expectativas, demándame.*
 
-Como dato, el récord oficial para los 5,000 metros es de 12m37s y le pertenece a al sr. Kenenisa Bekele, orgullo de Etiopía. Me parece que por lo pronto puede dormir tranquilo, no estoy ni cerca de romperlo.
+Como dato, el récord oficial para los 5,000 metros es de 12m37s y le pertenece al sr. Kenenisa Bekele, orgullo de Etiopía. Me parece que por lo pronto puede dormir tranquilo, no estoy ni cerca de romperlo.
 
 Mi siguiente paso será mejorar mi ritmo promedio y eventualmente aumentar mis distancias. Me siento motivado a seguir, logré la meta e incluso perdí 5 libras sin cambiar mi dieta de pizzas, hamburguesas y Coca Cola.
 
