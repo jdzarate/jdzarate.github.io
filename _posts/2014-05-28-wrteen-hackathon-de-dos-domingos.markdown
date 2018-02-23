@@ -80,7 +80,7 @@ Por cierto, si quieres chequear la versión beta de Wrteen puedes seguir [este e
 [lnkTutorial]:http://wheezyweb.readthedocs.org/en/latest/tutorial.html
 [lnkCrevasse]:https://github.com/patbenatar/crevasse
 [lnkSkeleton]:http://www.getskeleton.com/
-[lnkAerys]: http://wrteen.jdzarate.webfactional.com/p/bozJtZFC0A
+[lnkAerys]: http://www.wrteen.xyz/p/bozJtZFC0A
 [lnkFlask]:http://flask.pocoo.org/snippets/65/
-[lnkWrteen]: http://wrteen.jdzarate.webfactional.com/
+[lnkWrteen]: http://www.wrteen.xyz/
 [lnkMarkdown]:http://daringfireball.net/projects/markdown/
