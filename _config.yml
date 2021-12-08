@@ -1,5 +1,5 @@
 name: Blog de J.D. Zárate
 markdown: kramdown
-highlighter: pygments
-description: J.D. escribe sobre sus conflictos con la tecnología.
+highlighter: Rouge
+description: J.D. escribe sobre sus conflictos con la tecnología y la vida.
 url: http://www.jdzarate.com
