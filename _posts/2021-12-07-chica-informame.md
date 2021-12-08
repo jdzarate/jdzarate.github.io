@@ -2,7 +2,7 @@
 layout: post
 title: "Chica, Infórmame"
 date:   2021-12-07 11:50:00 -0600
-excerpt: Chica, infórmame.
+excerpt: Chica, infórmame. Todos mis sentidos en alerta.
 categories:
 - blog
 ---
