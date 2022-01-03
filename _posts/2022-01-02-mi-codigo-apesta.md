@@ -24,7 +24,7 @@ Solo bromeo, por supuesto que no soy así de sensible, creo.
 Sí, sí. Mi código a veces tiene bugs/errores, así como el de todos, supongo. Pero me gusta pensar que mis *bugs* son adorables, y que si estos fueran Pokémon, básicamente serían Butterfrees, venenosos pero agradables a la vista y no amenazadores como los Beedrills o Pinsirs del mundo... Okay, lo siento, una mala analogía que no tiene ningún sentido.
 
 <img src="http://i.imgur.com/JqFYyop.jpg" width="100%;">
-*Mis bugs a la izquierda, los del resto a la derecha. *
+*Mis bugs a la izquierda, los del resto a la derecha.*
 
 De hecho, toda esta publicación carecía de sentido cuando comencé a escribirla. Lo único que tenía era que el término *code smells* me dio un poco de risa, quería hablar de *bugs* y hacer una referencia a una caricatura.
 
