@@ -2,7 +2,7 @@
 layout: post
 title: "Mi código apesta, pero..."
 date:   2022-01-02 21:45:00 -0600
-excerpt: Mi código apesta, pero no subestimes el valor del hedor.
+excerpt: Mi código apesta, pero no subestimes el poder del hedor.
 categories:
 - blog
 ---
@@ -29,6 +29,6 @@ Lo admito, ver la sección de *code smells* y su exhaustiva lista afectó un poc
 
 Y yo solía aspirar a esa excelencia, a tomarme el tiempo para trabajar en los "puntos extra", pero en algún lugar del camino empecé a conformarme con hacer las cosas lo suficientemente bien para "pasar la nota" y enmascarar un poco las cosas. Y quiero cambiar eso, quiero ser mejor. No ser arrogante sino observador y curioso ante todos esos *smells* o alertas en mi código y en mi vida. Al menos para el código es genial contar con plataformas que te dan esas pepitas de información. Luego tendré que ver qué puedo obtener para mi vida en general.
 
-Pero tampoco quiero hacer más drama del necesario solo por ver una maldida lista de mejoras, así que lo dejo acá por hoy. Pero de nuevo, nunca subestimes el poder del hedor.
+Pero tampoco quiero hacer más drama del necesario solo por ver una maldita lista de mejoras, así que lo dejo acá por hoy. Pero de nuevo, nunca subestimes el poder del hedor.
 
 J.D.
