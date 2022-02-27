@@ -3,6 +3,7 @@ layout: post
 title:  "Sobre Kindle Fire y Chromebooks"
 date:   2013-09-26 14:05:00
 excerpt: Discusión sobre cómo el Kindle Fire y los Chromebooks pueden complementar los devices que ya tienes.
+published: false
 categories:
 - blog
 ---

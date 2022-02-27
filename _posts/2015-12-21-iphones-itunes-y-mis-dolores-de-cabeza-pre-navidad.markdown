@@ -3,6 +3,7 @@ layout: post
 title:  "iPhones, iTunes y mis dolores de cabeza pre-navidad."
 date:   2015-12-21 23:00:00 -0600
 excerpt: El año pasado convertí los viejos CDs navideños de mi mamá a MP3s, teniendo los MP3s que tan difícil podría ser pasarlos a un iPhone. Poco sabía que algo tan fácil iba a traerme dolores de cabeza.
+published: false
 categories:
 - blog
 ---

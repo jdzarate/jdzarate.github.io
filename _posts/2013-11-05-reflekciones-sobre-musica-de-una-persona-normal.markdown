@@ -3,6 +3,7 @@ layout: post
 title:  "Reflekciones sobre críticas de música de una Persona Normal"
 date:   2013-11-06 12:00:00
 excerpt: Reflekciones sobre reflekciones sobre reflekciones sobre reflekciones de críticas de música.
+published: false
 categories:
 - blog
 ---

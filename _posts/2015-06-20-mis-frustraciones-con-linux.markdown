@@ -3,6 +3,7 @@ layout: post
 title: "Mis frustaciones con Linux"
 date:   2015-06-20 15:00:00
 excerpt: En el que escribo sobre las complicaciones de la adopción de Linux y mi reciente incapacidad de recomendar este sistema operativo.
+published: false
 categories:
 - blog
 ---

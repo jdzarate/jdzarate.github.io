@@ -3,6 +3,7 @@ layout: post
 title: "Esta no es una nueva publicación"
 date:   2017-02-21 21:40:00 -0600
 excerpt: En donde pretendo no escribir una nueva publicación para este blog.
+published: false
 categories:
 - blog
 ---

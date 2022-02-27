@@ -3,6 +3,7 @@ layout: post
 title: "Buffer desbordado"
 date:   2016-06-19 09:53:00
 excerpt: Buffer despide a 10 empleados, el fundador con el relato y yo con los comentarios.
+published: false
 categories:
 - blog
 ---

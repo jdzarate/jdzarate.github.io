@@ -3,6 +3,7 @@ layout: post
 title:  "Los tiempos están cambiando y mi blog también"
 date:   2015-11-08 17:10:00 -0600
 excerpt: Quiero escribir con más frecuencia así que este blog será como una bitácora en la que voy a escribir cualquier tontería, en su mayor parte serán temas sobre tecnología. Todos los días tengo dilemas y conflictos con la tecnología, este podría ser un espacio para plasmarlos, hacer catarsis o lo que sea. 
+published: false
 categories:
 - blog
 ---

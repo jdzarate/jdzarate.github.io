@@ -1,3 +1,93 @@
+body{
+	font-family: Inconsolata, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Reflow Styling */
+header[role="banner"]       { grid-area: header; }
+main[role="main"]           { grid-area: main; }
+aside[role="complementary"] { grid-area: aside; }
+footer[role="contentinfo"]  { grid-area: footer; }
+
+.grid,
+.subgrid{
+	display: grid;
+	grid-template-columns: minmax(0, 1fr);
+}
+
+.grid{
+	grid-template-areas: 
+	'header'
+	'main'
+	'aside';
+	width: 100%;
+}
+
+.subgrid{
+	width: calc(100% + 2rem);
+	margin: 0 -1rem;
+}
+
+.grid-item,
+.subgrid-item{
+	padding: 1rem;
+}
+
+@media all and (min-width: 576px){
+	.subgrid{
+		grid-template-columns: minmax(0, 1fr) minmax(0,1fr);
+		margin-bottom: 1rem;
+	}
+	.subgrid-item{
+		padding-bottom: 0.25rem;
+	}
+}
+
+@media all and (min-width: 992px){
+	.grid{
+		/* grid-template-areas: 
+			'header header header'
+			'main main aside'
+			'footer footer footer';
+		;
+		grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr); */
+		max-width: 720px;
+		margin: auto;
+	}
+}
+
+header[role="banner"] {
+	margin-top: 1rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+header nav ul {
+	list-style: none;
+}
+
+header nav ul li {
+	display: inline;
+	padding: 0 0.25rem;
+}
+
+header nav select{
+	display: none;
+}
+
+.bio-box{
+	background-color: #f5f5f5;
+	padding: 1rem 0.5rem;
+	border-radius: 5px;
+}
+
+/* Larger than tablet */
+@media (min-width: 750px) {	
+	header nav select{
+		display: none;
+	}
+}
+
 
 a, a:hover{
 	color: #263238;
@@ -29,12 +119,14 @@ a{
 
 ul{
 	list-style: none;
+	padding-inline-start: 0 !important;
 }
 
 .post ul{
 	list-style: disc;
 	font-size: 1.6rem;
-	margin: 1.5rem 0 1.5rem 3rem;
+	margin: 1.5rem 0 1.5rem 0rem;
+	padding-inline-start: 0 !important;
 }
 
 .post a{
@@ -42,7 +134,7 @@ ul{
 }
 
 p{
-	font-size: 1.6rem;
+	line-height: 1.25;
 }
 
 .post-container{
@@ -89,18 +181,7 @@ blockquote {
   border-left: 5px solid #999;
 }
 
-/* Larger than tablet */
-@media (min-width: 750px) {
-	nav.blog-navigation{
-		padding: 2em 2em;
-	}
-	nav.blog-navigation select{
-		display: none;
-	}
-	nav.blog-navigation ul{
-		display: inline;
-	}
-}
+
 
 img + em{
 	font-size: 0.9em;

@@ -3,6 +3,7 @@ layout: post
 title: "El misterio de Twitter y el arca de usuarios perdida"
 date:   2016-07-19 16:10:00
 excerpt: En donde intento responder la pregunta que me ha inquietado por varias semanas ¿qué demonios tendría que hacer Twitter para registrar más usuarios?
+published: false
 categories:
 - blog
 ---

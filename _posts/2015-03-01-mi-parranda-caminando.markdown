@@ -3,6 +3,7 @@ layout: post
 title: "Mi Parranda Caminando"
 date:   2015-03-01 17:00:00
 excerpt: En el que escribo sobre mis experiencias en la primera semana de un desafío de caminatas virtuales.
+published: false
 categories:
 - blog
 ---

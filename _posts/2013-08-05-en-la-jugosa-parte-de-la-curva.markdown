@@ -3,6 +3,7 @@ layout: post
 title:  "En la jugosa parte de la curva"
 date:   2013-08-05 14:05:00
 excerpt: En mi revisión diaria de los posts de gente que sigo en Twitter encontré un artículo publicado por Alexis Ohanian hace 2 meses. El artículo tiene como título "Getting Things Done > Grade Point Average"
+published: false
 categories:
 - blog
 ---

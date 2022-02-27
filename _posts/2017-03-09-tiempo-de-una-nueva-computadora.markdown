@@ -3,6 +3,7 @@ layout: post
 title: "Tiempo de una nueva computadora"
 date:   2017-03-09 21:20:00 -0600
 excerpt: Después de 6 años tengo una nueva computadora principal y esta es mi historia.
+published: false
 categories:
 - blog
 ---

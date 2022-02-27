@@ -3,6 +3,7 @@ layout: post
 title: "Mi Chrome OS dilema"
 date:   2017-03-31 14:10:00 -0600
 excerpt: En el nuevo episodio de Las Indecisiones de J.D. veremos como nuestro héroe sufre una crisis interna cuando intenta decidir si es una buena idea o no comprar una Chromebook
+published: false
 categories:
 - blog
 ---

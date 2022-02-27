@@ -3,6 +3,7 @@ layout: post
 title:  "¿Por qué estudiaste Computación?"
 date:   2013-10-14 14:05:00
 excerpt: La respuesta incluye las dos versiones cortas que me hacen ver como un cretino, presumido e indiferente; y la versión con las partes aburridas.
+published: false
 categories:
 - blog
 ---

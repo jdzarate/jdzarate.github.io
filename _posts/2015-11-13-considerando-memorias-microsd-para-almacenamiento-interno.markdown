@@ -3,6 +3,7 @@ layout: post
 title:  "Considerando memorias microSD para almacenamiento interno"
 date:   2015-11-13 08:00:00 -0600
 excerpt: Cuando anunciaron la versión de desarrollo de Android 6 o M (por Marshmallow) hubo un feature que me llamó la atención, Android sería capaz de reconocer una memoria SD como almacenamiento interno.
+published: false
 categories:
 - blog
 ---

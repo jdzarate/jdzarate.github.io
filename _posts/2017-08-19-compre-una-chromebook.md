@@ -3,6 +3,7 @@ layout: post
 title: "Compré una chromebook"
 date:   2017-08-19 15:50:00 -0600
 excerpt: No estaba esperando comprar una chromebook para volver a escribir. Solo pasó. Mi impresión después de una semana es que no tengo quejas.
+published: false
 categories:
 - blog
 ---

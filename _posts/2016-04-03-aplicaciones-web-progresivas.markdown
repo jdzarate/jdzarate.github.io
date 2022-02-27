@@ -3,6 +3,7 @@ layout: post
 title:  "Aplicaciones Web Progresivas"
 date:   2016-04-03 12:00:00 -0600
 excerpt: 
+published: false
 categories:
 - blog
 ---

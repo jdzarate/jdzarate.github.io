@@ -3,6 +3,7 @@ layout: post
 title:  "Pushbullet y las consecuencias de un modelo freemium"
 date:   2015-11-23 20:30:00 -0600
 excerpt: Una idea de lo que Pushbullet hace y la supuesta popularidad del servicio, su nuevo Plan Pro y la controversial reacción.
+published: false
 categories:
 - blog
 ---

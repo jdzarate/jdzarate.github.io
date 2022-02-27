@@ -3,6 +3,7 @@ layout: post
 title:  "Detalles del formato de memoria interna de una microSD con Android M"
 date:   2015-11-15 22:00:00 -0600
 excerpt: Puntos claves a tomar en cuenta antes de formatear una microSD como memoria interna para un dispositivo Android, solo es posible *ver* la capacidad de almacenimiento de la MicroSD y otros detalles.
+published: false
 categories:
 - blog
 ---

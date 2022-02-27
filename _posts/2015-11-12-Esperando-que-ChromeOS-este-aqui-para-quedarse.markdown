@@ -3,6 +3,7 @@ layout: post
 title:  "Esperando que Chrome OS sí esté aquí para quedarse"
 date:   2015-11-12 00:00:00 -0600
 excerpt: A finales del mes hubo un rumor que sugería que *el fin* de las chromebooks podría estar cerca porque Google pensaba hacer una especie de fusión de este sistema operativo con Android, o simplemente olvidarse de ellas, espero que no sea cierto.
+published: false
 categories:
 - blog
 ---

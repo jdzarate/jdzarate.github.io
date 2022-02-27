@@ -3,6 +3,7 @@ layout: post
 title: "Mi carta al Team Kindle de Amazon.com"
 date:   2015-06-27 16:00:00
 excerpt: En el que me quejo porque el Kindle no ha cambiado mucho durante 4 años o más.
+published: false
 categories:
 - blog
 ---

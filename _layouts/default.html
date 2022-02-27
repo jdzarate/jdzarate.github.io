@@ -7,86 +7,47 @@
         <meta name="viewport" content="width=device-width">
 
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+        <!-- <link rel="stylesheet" href="/css/syntax.css"> -->
 
         <!-- Custom CSS -->
         <!-- <link rel="stylesheet" href="/css/main.css"> -->
-        <link rel="stylesheet" href="/css/skeleton-2/normalize.css">
-        <link rel="stylesheet" href="/css/skeleton-2/skeleton.css">
+        
+        <!-- https://www.w3.org/WAI/WCAG21/Techniques/css/C32 -->
         <link rel="stylesheet" href="/css/custom.css">
-        <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
-        <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+        <link href='//fonts.googleapis.com/css?family=Inconsolata:400,300,600' rel='stylesheet' type='text/css'>
         <link href='https://www.jdzarate.com/feed.xml' rel='alternate' type='application/rss+xml'>
-        <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
     </head>
-    <body>
-<!--     <div class="offset-by-two eleven columns">
-        <a href="/" style="text-decoration:none;" class="home-link"><i class="icon-home icon-2x" style="float:right;"></i></a>
-    </div> -->
-    <div class="" style="background:#263238; padding: 1.5em 0 0.5em 0;">
-      <div class="container">
-        <div class="site-header">
-            <div class="header" style="background:#263238;">
-              <div class="row">
-                  <h1 class="blog-title" style=""><a href="/">jdzarate.com</a></h1>
-                  <h2 class="blog-subtitle"></h2>
-              </div>
-            </div>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="nine columns">
-          {{ content }}
-        </div>
-        <div class="three columns">
-          <nav class="blog-navigation">
-            <ul>
-              <li><a href="/archive">Archivo</a></li>
-              <li><a href="/about">Acerca de</a></li>
-              <li><a href="/projects">Proyectos</a></li>
-              <li><a href="https://www.jdzarate.com/feed.xml">RSS</a></li>
-              <li><a class="pushbullet-subscribe-widget" data-channel="jdzarate" data-widget="button" data-size="small"></a>
-<script type="text/javascript">(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src='https://widget.pushbullet.com/embed.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b);})();</script></li>
-            </ul>
+    <body class="grid">
+      <header role="banner" class="grid-item">
+        <span><a href="/">jdzarate.com</a></span>
+        <nav>
+          <ul>
+            <li><a href="/archive">Archivo</a></li>
+            <li><a href="https://www.jdzarate.com/feed.xml">RSS</a></li>
+          </ul>
 
-            <select>
-              <option value="">Navegaci&oacute;n</option>
-              <option value="/archive">Archivo</option>
-              <option value="/about">Acerca de</option>
-              <option value="/projects">Proyectos</option>
-            </select>
-          </nav>
+          <select>
+            <option value="">Navegaci&oacute;n</option>
+            <option value="/archive">Archivo</option>
+            <option value="/about">Acerca de</option>
+            <option value="/projects">Proyectos</option>
+          </select>
+        </nav>
+      </header>
+      <main role="main" class="grid-item">
+        {{ content }}
+      </main>
+      <aside role="complementary" class="grid-item">
+        <div class="bio-box">
+          <span>
+            J.D. Zárate, Full Stack Developer.
+          </span>
         </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="thirteen columns">
-        <div class="site">          
-          <div class="footer">
-              <div class="contact">
-                <div>
-                <a href="https://twitter.com/jdzaratem/" target="_blank" ><i class="icon-twitter-sign icon-2x"></i></a>
-                  <a href="https://github.com/jdzarate/" target="_blank" style="margin-left:0.3em;"><i class="icon-github-sign icon-2x"></i></a>
-                  <a href="https://jdzarate.tumblr.com/" target="_blank" style="margin-left:0.3em;"><i class="icon-tumblr-sign icon-2x"></i></a>
-                  <a href="https://www.google.com/+JoseDanielZarateM" target="_blank" style="margin-left:0.3em;"><i class="icon-google-plus-sign icon-2x"></i></a>
-                </div>
-              </div>
-              <div class="subscribe">
-              <p>
-                  Puedes suscribirte vía <a href="https://www.jdzarate.com/feed.xml">rss</a> o también puedes recibir notificaciones sobre nuevos posts en tu desktop, tablet o smartphone vía Pushbullet <br><a class="pushbullet-subscribe-widget" data-channel="jdzarate" data-widget="button" data-size="small"></a>
-<script type="text/javascript">(function(){var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src='https://widget.pushbullet.com/embed.js';var b=document.getElementsByTagName('script')[0];b.parentNode.insertBefore(a,b);})();</script>
-                </p>
-              </div>
-            </div>
-          </div>
-      </div>
-    </div><!-- container -->
+      </aside>
     </body>
-    <script type="text/javascript">
+    <!-- <script type="text/javascript">
       $("nav.blog-navigation select").change(function() {
         window.location = $(this).find("option:selected").val();
       });
-    </script>
+    </script> -->
 </html>

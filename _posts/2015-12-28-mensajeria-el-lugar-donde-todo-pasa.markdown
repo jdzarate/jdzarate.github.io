@@ -3,6 +3,7 @@ layout: post
 title:  "Mensajería, el lugar donde TODO pasa"
 date:   2015-12-28 21:30:00 -0600
 excerpt: No creo ser el único que está notando una tendencia de las compañías Tech por implementar o innovar en servicios de mensajería. Hay una fiesta y todo el mundo está allí. Todos quieren mis mensajes y los tuyos también.
+published: false
 categories:
 - blog
 ---

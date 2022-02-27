@@ -3,6 +3,7 @@ layout: post
 title: "Mi hipocresía IT: Web Apps"
 date:   2015-01-29 13:00:00
 excerpt: La semana pasada noté que soy un poco hipócrita sobre algunas cosas IT y escribí sobre eso.
+published: false
 categories:
 - blog
 ---

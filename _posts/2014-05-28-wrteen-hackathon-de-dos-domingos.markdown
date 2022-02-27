@@ -3,6 +3,7 @@ layout: post
 title: "Wrteen: un hackathon de dos domingos (casi)"
 date:   2014-05-28 12:00:00
 excerpt: En el que escribo sobre el proceso de creación de Wrteen - Simple writing for things that might matter.
+published: false
 categories:
 - blog
 ---

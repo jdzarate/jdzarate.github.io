@@ -3,6 +3,7 @@ layout: post
 title: "El Pelícano contra el gran Gatsby...js"
 date:   2018-09-13 11:50:00 -0600
 excerpt: Hace una semana tomé la decisión de cambiar un generador de contenido estático
+published: false
 categories:
 - blog
 ---

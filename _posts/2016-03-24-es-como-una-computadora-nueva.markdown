@@ -3,6 +3,7 @@ layout: post
 title:  "Es como una computadora nueva"
 date:   2016-03-24 15:55:00 -0600
 excerpt: Aún pretendiendo ser un sujeto tecnológico de buenos sentimientos rara vez compro equipo moderno o reciente. Últimamente he preferido aplicar algún hack de software o hardware para que al menos me de esa sensación tener algo nuevo.
+published: false
 categories:
 - blog
 ---
