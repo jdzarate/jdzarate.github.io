@@ -7,7 +7,7 @@ categories:
 - blog
 ---
 
-He estado viviendo fuera de El Salvador por un poco más de seis meses. Es la primera vez que vivo fuera de mi país, fuera de la casa de mis padres, de hecho. No creo que me costó mucho tiempo adaptarme, rápidamente definí una rutina y eso quizá simplificó las cosas pero no fue sino hasta fines de noviembre o diciembre que realmente empecé a sentir esa familiaredad de estar en casa, si es que eso hace sentido. 
+He estado viviendo fuera de El Salvador por un poco más de seis meses. Es la primera vez que vivo fuera de mi país, fuera de la casa de mis padres, de hecho. No creo que me costó mucho tiempo adaptarme, rápidamente definí una rutina y eso quizá simplificó las cosas pero no fue sino hasta fines de noviembre o diciembre que realmente empecé a sentir esa familiaridad de estar en casa, si es que eso hace sentido. 
 
 Sin embargo, no puedo sentirme totalmente cómodo si no tengo una computadora personal. Si bien traje conmigo una Chromebook, sus especificaciones, las que dejaban mucho qué desear aún en 2017 cuando la compré, no me permiten hacer mucho más que visitar reddit. Demonios, incluso usar el cable HDMI para conectarla a mi monitor se estaba volviendo una pesadilla. Así que hace un mes compré una Mac Mini M1 con dos propósitos: 1) escribir un poco más en mi blog, y 2) programar proyectos personales. Aún no sé si lograré esos propósitos, al menos no puedo usar la excusa de no tener computadora.
 
