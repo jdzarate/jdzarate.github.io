@@ -2,7 +2,6 @@
 layout: post
 title:  "Más palabras sobre música y transitividad"
 date:   2013-08-15 14:05:00
-published: false
 ---
 Pasé escuchando Talking Heads todo el día. Me gustan. El descubrimiento de esa banda es de las mejores cosas que me han pasado en el año por muy triste que parezca. La verdad es que David Byrne es un maldito genio y no tengo idea de cómo es que esa banda no ha trascendido más allá del recuerdo de poca gente, pero vaya qué gente.
 

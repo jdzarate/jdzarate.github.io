@@ -3,7 +3,6 @@ layout: post
 title: "El Vínculo Simpático entre la Magia y la Ciencia"
 date:   2014-07-31 12:00:00
 excerpt: En el que escribo sobre cómo el Sistema de Magia conocido como Simpatía tiene fundamentación científica.
-published: false
 categories:
 - blog
 ---

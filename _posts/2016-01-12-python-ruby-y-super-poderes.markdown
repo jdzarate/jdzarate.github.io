@@ -3,7 +3,6 @@ layout: post
 title:  "Python, Ruby y súper poderes"
 date:   2016-01-11 20:30:00 -0600
 excerpt: A finales del año pasado se me ocurrió la idea de que sería bueno aprender un nuevo lenguaje de programación y esto es lo que pasó.
-published: false
 categories:
 - blog
 ---

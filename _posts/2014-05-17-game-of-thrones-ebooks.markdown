@@ -3,7 +3,6 @@ layout: post
 title: "A Game of Thrones me condujo a los libros digitales"
 date:   2014-05-17 12:00:00
 excerpt: En el que escribo más sobre libros digitales y por qué son tan geniales y menos sobre "A Game of Thrones".
-published: false
 categories:
 - blog
 ---

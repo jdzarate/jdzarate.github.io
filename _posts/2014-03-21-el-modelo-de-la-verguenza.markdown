@@ -3,7 +3,6 @@ layout: post
 title: "El modelo de la vergüenza"
 date:   2014-03-21 12:00:00
 excerpt: En el que escribo sobre lo difícil que es cobrar por software y cómo, talvez y solamente talvez, podría ser más sencillo.
-published: false
 categories:
 - blog
 ---

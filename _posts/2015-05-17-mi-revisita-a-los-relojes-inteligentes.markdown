@@ -3,7 +3,6 @@ layout: post
 title: "Mi revisita a los relojes inteligentes"
 date:   2015-05-17 20:00:00
 excerpt: En el que escribo sobre lo que esperaba de los relojes inteligentes y como a veces hay que ver a la tecnología por cómo es y no como quisiera que fuera.
-published: false
 categories:
 - blog
 ---

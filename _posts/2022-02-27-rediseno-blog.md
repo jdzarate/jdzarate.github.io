@@ -3,6 +3,7 @@ layout: post
 title: "Rediseño del blog"
 date:   2022-02-27 16:30:00 -0600
 excerpt: Actualizaciones de vida y rediseño del blog
+published: false
 categories:
 - blog
 ---
